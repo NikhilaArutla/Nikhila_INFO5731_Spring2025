@@ -1,0 +1,51 @@
+Product ID,Name,Category,Quantity,Price,Manufacturer
+1,Smartphone,A,150,500,Apple
+2,Laptop,B,200,1200,Dell
+3,Headphones,A,80,150,Sony
+4,Tablet,C,120,350,Samsung
+5,Smartwatch,A,100,250,Fossil
+6,LED TV,B,60,800,LG
+7,Speaker,C,70,130,Bose
+8,Router,D,50,90,Netgear
+9,Microwave,B,90,100,Panasonic
+10,Blender,C,150,45,Ninja
+11,Camera,B,110,500,Cannon
+12,Keyboard,D,60,50,Logitech
+13,Mouse,D,120,30,Razer
+14,Smartphone,A,300,350,OnePlus
+15,Laptop,B,90,900,HP
+16,Smart TV,B,40,1200,Sony
+17,Smart Plug,D,200,25,TP-Link
+18,Electric Toothbrush,E,70,35,Philips
+19,Air Conditioner,B,30,4000,Carrier
+20,Projector,B,50,600,ViewSonic
+21,Refrigerator,B,45,1000,Whirlpool
+22,Washing Machine,B,25,800,LG
+23,Hair Dryer,E,90,40,Dyson
+24,Electric Kettle,E,180,30,Sunbeam
+25,Security Camera,D,40,200,Arlo
+26,Action Camera,B,80,450,Gopro
+27,Electric Heater,E,50,80,DeLonghi
+28,Home Theater System,C,60,700,Yamaha
+29,VR Headset,A,30,250,Oculus
+30,Smart Speaker,A,200,100,Amazon
+31,Smart Lock,D,100,150,August
+32,Electric Grill,E,110,60,George Foreman
+33,Power Bank,A,300,25,Anker
+34,Hair Straightener,E,70,70,Remington
+35,Tablet,C,150,300,Lenovo
+36,USB Drive,D,400,15,SanDisk
+37,Smartphone Charger,D,600,15,Anker
+38,Game Console,B,90,350,Microsoft
+39,Laser Printer,B,40,250,Brother
+40,Desktop Computer,B,120,1000,Lenovo
+41,Fitness Tracker,A,150,120,Fitbit
+42,Electric Fan,E,130,35,Lasko
+43,Cordless Vacuum Cleaner,E,60,180,Shark
+44,Electric Shaver,E,80,60,Braun
+45,Digital Thermometer,E,200,20,Omron
+46,Smart Thermostat,D,110,120,Nest
+47,External Hard Drive,D,60,90,Seagate
+48,Air Purifier,E,40,200,Levoit
+49,Wireless Router,D,90,120,Asus
+50,Smart Home Hub,D,100,130,Google
