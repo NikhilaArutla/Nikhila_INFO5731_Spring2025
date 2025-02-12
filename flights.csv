@@ -1,50 +1,52 @@
-Flight ID,Origin,Destination,Seats Available,Price per Seat
-FL001,Delhi,India,3,100
-FL002,Chicago,Dallas,120,100
-FL003,Ohio,Texas,2,100
-FL005,Hyd,DFW,1,1600
-FL006,Mumbai,Goa,50,250
-FL007,Sydney,Melbourne,180,300
-FL008,Toronto,Vancouver,60,400
-FL009,London,Paris,200,500
-FL010,Tokyo,Osaka,90,450
-FL011,Hyderabad,Chennai,40,350
-FL012,Delhi,Bangalore,100,450
-FL013,Pune,Kolkata,120,400
-FL014,Frankfurt,Berlin,300,700
-FL015,Mumbai,Jaipur,80,300
-FL016,New York,Miami,150,600
-FL017,Atlanta,Houston,170,550
-FL018,Rome,Venice,130,420
-FL019,LA,Seattle,200,700
-FL020,Berlin,Amsterdam,90,620
-FL021,Madrid,Lisbon,140,520
-FL022,Dubai,Abu Dhabi,70,700
-FL023,Singapore,KL,300,550
-FL024,Delhi,Cochin,75,400
-FL025,Tokyo,Hiroshima,150,450
-FL026,Toronto,Montreal,200,600
-FL027,Washington,Dallas,110,650
-FL028,Phoenix,Las Vegas,90,300
-FL029,Sydney,Brisbane,80,350
-FL030,Chicago,LA,100,720
-FL031,Boston,Denver,150,650
-FL032,Paris,Nice,130,400
-FL033,Tokyo,Seoul,170,800
-FL034,Mumbai,Kochi,200,700
-FL035,Bangalore,Chennai,180,280
-FL036,Delhi,Jaipur,75,220
-FL037,Pune,Nagpur,90,270
-FL038,Sydney,Auckland,110,620
-FL039,Hyderabad,Vijayawada,130,300
-FL040,Bangalore,Goa,100,350
-FL041,Kolkata,Ranchi,90,250
-FL042,Jaipur,Ahmedabad,100,280
-FL043,Mumbai,Delhi,200,750
-FL044,Paris,Berlin,190,670
-FL045,Tokyo,Bangkok,150,900
-FL046,Mumbai,Pune,180,450
-FL047,Chennai,Vizag,120,400
-FL048,LA,San Diego,170,700
-FL049,Singapore,Jakarta,200,650
-FL050,Dubai,Mumbai,140,800
+Flight_ID,Airline,Origin,Destination,Departure_Date,Departure_Time,Arrival_Date,Arrival_Time,Total_Seats,Available_Seats,Price_Per_Ticket,Status
+F001,Indigo,Mumbai,Paris,3/7/2025,7:54,3/7/2025,9:54,268,14,380.92,On Time
+F002,Indigo,Mumbai,London,3/11/2025,9:54,3/11/2025,21:54,194,42,1395.05,Delayed
+F003,Air India,Dubai,Miami,2/12/2025,23:54,2/13/2025,1:54,163,116,1186.47,Delayed
+F004,Emirates,Houston,Delhi,3/10/2025,2:54,3/10/2025,5:54,263,22,1440.73,Canceled
+F005,Emirates,Los Angeles,Chicago,3/6/2025,1:54,3/6/2025,12:54,298,81,624.06,Canceled
+F006,Indigo,Delhi,London,3/14/2025,9:54,3/14/2025,21:54,201,42,1152.68,Delayed
+F007,Air India,Los Angeles,Delhi,2/20/2025,23:54,2/21/2025,11:54,261,137,548.18,Canceled
+F008,Qatar Airways,London,Miami,2/15/2025,8:54,2/15/2025,12:54,120,112,763.77,Delayed
+F009,Indigo,Mumbai,Miami,3/8/2025,3:54,3/8/2025,7:54,276,100,338.68,On Time
+F010,Air India,New York,Mumbai,3/14/2025,6:54,3/14/2025,12:54,150,101,1208.36,On Time
+F011,Qatar Airways,Paris,London,3/9/2025,1:54,3/9/2025,8:54,297,276,1304.75,Delayed
+F012,Qatar Airways,Mumbai,Miami,3/13/2025,23:54,3/14/2025,5:54,176,154,508.64,Canceled
+F013,Air India,Mumbai,New York,3/2/2025,6:54,3/2/2025,9:54,183,80,1495.71,On Time
+F014,Air India,Chicago,Delhi,2/19/2025,7:54,2/19/2025,15:54,252,211,735.08,Canceled
+F015,Air India,New York,Chicago,2/27/2025,6:54,2/27/2025,11:54,162,142,1039.99,Delayed
+F016,Indigo,Mumbai,Paris,3/9/2025,9:54,3/9/2025,17:54,266,80,775.42,On Time
+F017,Emirates,Paris,London,3/2/2025,22:54,3/3/2025,6:54,272,253,1369.53,Delayed
+F018,Lufthansa,Mumbai,Los Angeles,2/15/2025,1:54,2/15/2025,4:54,260,96,1476.73,Canceled
+F019,Indigo,Miami,Dubai,2/14/2025,5:54,2/14/2025,9:54,218,64,574.52,On Time
+F020,Air India,Chicago,London,3/8/2025,3:54,3/8/2025,12:54,260,228,1373.72,Canceled
+F021,Qatar Airways,Mumbai,New York,3/6/2025,7:54,3/6/2025,10:54,185,93,765.42,Canceled
+F022,Qatar Airways,Los Angeles,London,2/16/2025,22:54,2/17/2025,4:54,198,41,240.7,Delayed
+F023,Air India,Chicago,Delhi,3/2/2025,3:54,3/2/2025,9:54,273,123,921.96,On Time
+F024,Lufthansa,Mumbai,Miami,2/19/2025,6:54,2/19/2025,15:54,281,233,743.02,On Time
+F025,Lufthansa,Paris,Dubai,3/13/2025,5:54,3/13/2025,12:54,158,41,301.38,On Time
+F026,Indigo,Mumbai,Los Angeles,2/22/2025,8:54,2/22/2025,19:54,257,109,312.7,Canceled
+F027,Air India,Paris,Miami,2/25/2025,2:54,2/25/2025,13:54,250,160,460.64,On Time
+F028,Indigo,London,Paris,3/1/2025,23:54,3/2/2025,8:54,203,157,231.02,Canceled
+F029,Air India,Miami,Dubai,2/14/2025,7:54,2/14/2025,12:54,102,36,887.26,Delayed
+F030,Air India,Houston,Mumbai,2/28/2025,4:54,2/28/2025,6:54,252,58,746.45,Delayed
+F031,Air India,Delhi,Dubai,3/12/2025,7:54,3/12/2025,11:54,203,129,648.06,Canceled
+F032,Emirates,Miami,Delhi,3/4/2025,5:54,3/4/2025,13:54,237,143,310.89,On Time
+F033,Lufthansa,Chicago,Los Angeles,3/3/2025,4:54,3/3/2025,15:54,249,161,369.88,Canceled
+F034,Qatar Airways,Delhi,Los Angeles,2/15/2025,22:54,2/16/2025,4:54,175,106,1376.45,On Time
+F035,Indigo,Chicago,Mumbai,3/11/2025,5:54,3/11/2025,14:54,103,8,1391.34,Canceled
+F036,Emirates,Mumbai,Delhi,3/1/2025,7:54,3/1/2025,13:54,272,204,136.39,Delayed
+F037,Lufthansa,Dubai,Miami,3/14/2025,9:54,3/14/2025,15:54,196,120,1256.95,Delayed
+F038,Lufthansa,London,New York,3/10/2025,0:54,3/10/2025,10:54,280,208,1156.65,On Time
+F039,Lufthansa,Dubai,New York,3/6/2025,22:54,3/7/2025,8:54,243,219,1266.92,Canceled
+F040,Emirates,Miami,Dubai,2/16/2025,22:54,2/17/2025,10:54,260,131,1434.33,On Time
+F041,Lufthansa,Chicago,Mumbai,3/5/2025,7:54,3/5/2025,9:54,246,208,925.2,Canceled
+F042,Lufthansa,Houston,Los Angeles,2/28/2025,1:54,2/28/2025,10:54,238,163,508.41,On Time
+F043,Lufthansa,Dubai,Mumbai,2/22/2025,2:54,2/22/2025,11:54,262,98,145.49,Delayed
+F044,Air India,Chicago,Mumbai,3/1/2025,23:54,3/2/2025,4:54,267,214,489.21,Delayed
+F045,Indigo,London,Dubai,3/5/2025,5:54,3/5/2025,16:54,253,108,1403.6,Canceled
+F046,Air India,London,Mumbai,2/18/2025,1:54,2/18/2025,10:54,298,215,1177.09,Canceled
+F047,Qatar Airways,London,New York,2/13/2025,3:54,2/13/2025,10:54,169,6,731.62,Delayed
+F048,Emirates,Delhi,Los Angeles,2/14/2025,6:54,2/14/2025,11:54,275,182,453.88,On Time
+F049,Lufthansa,New York,Houston,3/5/2025,7:54,3/5/2025,10:54,231,194,1247.27,Delayed
+F050,Emirates,London,Los Angeles,3/5/2025,23:54,3/6/2025,10:54,172,52,1067.78,Canceled
+F123,Air India,Mumbai,New York,2025-04-15,14:30,2025-04-15,23:30,300,300,500,On time
