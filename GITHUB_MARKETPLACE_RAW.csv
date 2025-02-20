@@ -1,0 +1,961 @@
+PRODUCT_NAME,DESCRIPTION,URL,PAGE_NO
+TruffleHog OSS,Scan Github Actions with TruffleHog,https://github.com/marketplace/actions/trufflehog-oss,1
+Metrics embed,An infographics generator with 40+ plugins and 300+ options to display stats about your GitHub account,https://github.com/marketplace/actions/metrics-embed,1
+yq - portable yaml processor,"create, read, update, delete, merge, validate and do more with yaml",https://github.com/marketplace/actions/yq-portable-yaml-processor,1
+Super-Linter,"Super-linter is a ready-to-run collection of linters and code analyzers, to help validate your source code",https://github.com/marketplace/actions/super-linter,1
+Gosec Security Checker,Runs the gosec security checker,https://github.com/marketplace/actions/gosec-security-checker,1
+Rebuild Armbian and Kernel,"Support Amlogic, Rockchip and Allwinner boxes",https://github.com/marketplace/actions/rebuild-armbian-and-kernel,1
+OpenCommit — improve commits with AI 🧙,Replaces lame commit messages with meaningful AI-generated messages when you push to remote,https://github.com/marketplace/actions/opencommit-improve-commits-with-ai,1
+Checkout,Checkout a Git repository at a particular version,https://github.com/marketplace/actions/checkout,1
+SSH Remote Commands,Executing remote ssh commands,https://github.com/marketplace/actions/ssh-remote-commands,1
+GitHub Pages action,GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly,https://github.com/marketplace/actions/github-pages-action,1
+Cache,Cache artifacts like dependencies and build outputs to improve workflow execution time,https://github.com/marketplace/actions/cache,1
+generate-snake-game-from-github-contribution-grid,Generates a snake game from a github user contributions grid. Output the animation as gif or svg,https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid,1
+Build and push Docker images,Build and push Docker images with Buildx,https://github.com/marketplace/actions/build-and-push-docker-images,1
+GH Release,Github Action for creating Github Releases,https://github.com/marketplace/actions/gh-release,1
+run-digger,Manage terraform collaboration,https://github.com/marketplace/actions/run-digger,1
+Rebuild Armbian,Build Armbian Linux,https://github.com/marketplace/actions/rebuild-armbian,1
+GitHub Script,Run simple scripts using the GitHub client,https://github.com/marketplace/actions/github-script,1
+Deploy to GitHub Pages,This action will handle the deployment process of your project to GitHub Pages,https://github.com/marketplace/actions/deploy-to-github-pages,1
+ChatGPT CodeReviewer,A Code Review Action Powered By ChatGPT,https://github.com/marketplace/actions/chatgpt-codereviewer,1
+FTP Deploy,Automate deploying websites and more with this GitHub action via FTP and FTPS,https://github.com/marketplace/actions/ftp-deploy,1
+Setup Node.js environment,Setup a Node.js environment by adding problem matchers and optionally downloading and adding it to the PATH,https://github.com/marketplace/actions/setup-node-js-environment,2
+run-ansible-lint,Run Ansible Lint,https://github.com/marketplace/actions/run-ansible-lint,2
+fastpages: An easy to use blogging platform with support for Jupyter Notebooks.,Converts Jupyter notebooks and Word docs into Jekyll blog posts,https://github.com/marketplace/actions/fastpages-an-easy-to-use-blogging-platform-with-support-for-jupyter-notebooks,2
+Release Drafter,Drafts your next release notes as pull requests are merged into master,https://github.com/marketplace/actions/release-drafter,2
+Profile Readme Development Stats,Are you an early 🐤 or a night 🦉? When are you most productive during the day? Let s check out in your readme,https://github.com/marketplace/actions/profile-readme-development-stats,2
+Upload a Build Artifact,Upload a build artifact that can be used by subsequent workflow steps,https://github.com/marketplace/actions/upload-a-build-artifact,2
+Debugging with tmate,Debug your GitHub Actions Environment interactively by using SSH or a Web shell,https://github.com/marketplace/actions/debugging-with-tmate,2
+Blog Post Workflow,Allows you to show your latest blog posts on your github profile or project readme,https://github.com/marketplace/actions/blog-post-workflow,2
+Setup PHP Action,GitHub Action for PHP,https://github.com/marketplace/actions/setup-php-action,2
+typos-action,Run typos to check spelling in GitHub actions,https://github.com/marketplace/actions/typos-action,2
+GitHub-Profile-Summary-Cards,Generate profile summary cards and commit to default branch,https://github.com/marketplace/actions/github-profile-summary-cards,2
+Hercules Insights,Run various Git history analyses with src-d/hercules,https://github.com/marketplace/actions/hercules-insights,2
+wemake-python-styleguide,Runs wemake-python-styleguide as a Github Action,https://github.com/marketplace/actions/wemake-python-styleguide,2
+"""Configure AWS Credentials"" Action for GitHub Actions",Configures AWS credentials for use in subsequent steps in a GitHub Action workflow,https://github.com/marketplace/actions/configure-aws-credentials-action-for-github-actions,2
+Paths Changes Filter,Execute your workflow steps only if relevant files are modified,https://github.com/marketplace/actions/paths-changes-filter,2
+Flutter action,Setup your runner with Flutter environment,https://github.com/marketplace/actions/flutter-action,2
+Create Pull Request,Creates a pull request for changes to your repository in the actions workspace,https://github.com/marketplace/actions/create-pull-request,2
+Git Auto Commit,Automatically commits files which have been changed during the workflow run and push changes back to remote repository,https://github.com/marketplace/actions/git-auto-commit,2
+Labeler,Automatically label new pull requests based on the paths of files being changed,https://github.com/marketplace/actions/labeler,2
+Make OpenWrt,"Support Amlogic, Rockchip and Allwinner boxes",https://github.com/marketplace/actions/make-openwrt,2
+MegaLinter,Combine all available linters to automatically validate your sources without configuration,https://github.com/marketplace/actions/megalinter,3
+jd - JSON diff and patch,"jd is a utility for diffing and patching JSON and YAML values. It also supports JSON Merge Patch and a subset of JSON
+Patch",https://github.com/marketplace/actions/jd-json-diff-and-patch,3
+Is Website vulnerable,Scans a url for public javascript library vulnerabilities,https://github.com/marketplace/actions/is-website-vulnerable,3
+Changed Files,"Get all Added, Copied, Modified, Deleted, Renamed, Type changed, Unmerged, and Unknown files",https://github.com/marketplace/actions/changed-files,3
+release-please-action,automated releases based on conventional commits,https://github.com/marketplace/actions/release-please-action,3
+Code Review GPT,Reviews the staged files with a GPT model from OpenAI,https://github.com/marketplace/actions/code-review-gpt,3
+Setup Python,Set up a specific version of Python and add the command-line tools to the PATH,https://github.com/marketplace/actions/setup-python,3
+Install cargo-binstall,Install the latest version of cargo-binstall tool,https://github.com/marketplace/actions/install-cargo-binstall,3
+Set up gcloud Cloud SDK environment,"Downloads, installs, and configures a Google Cloud SDK environment. Adds the gcloud CLI command to the $PATH",https://github.com/marketplace/actions/set-up-gcloud-cloud-sdk-environment,3
+Step CI Action,Run Step CI workflows,https://github.com/marketplace/actions/step-ci-action,3
+Swift Doc,Generates documentation for your Swift project,https://github.com/marketplace/actions/swift-doc,3
+The SILE Typesetter,Simon’s Improved Layout Engine,https://github.com/marketplace/actions/the-sile-typesetter,3
+GraphQL Inspector,"Tooling for GraphQL. Compare schemas, find breaking changes, find similar types",https://github.com/marketplace/actions/graphql-inspector,3
+AI-based PR Reviewer & Summarizer with Chat Capabilities,AI-based PR Reviewer Summarizer with Chat Capabilities,https://github.com/marketplace/actions/ai-based-pr-reviewer-summarizer-with-chat-capabilities,3
+Waka - Readme,WakaTime coding activity graph in your profile readme,https://github.com/marketplace/actions/waka-readme,3
+Setup Java JDK,Set up a specific version of the Java JDK and add the command-line tools to the PATH,https://github.com/marketplace/actions/setup-java-jdk,3
+Codecov,GitHub Action that uploads coverage reports for your repository to codecov.io,https://github.com/marketplace/actions/codecov,3
+Languine.ai,Automated localization infrastructure,https://github.com/marketplace/actions/languine-ai,3
+setup-ngs,Next Generation Shell (NGS),https://github.com/marketplace/actions/setup-ngs,3
+Download a Build Artifact,Download a build artifact that was previously uploaded in the workflow by the upload-artifact action,https://github.com/marketplace/actions/download-a-build-artifact,3
+Lua Busted,Busted,https://github.com/marketplace/actions/lua-busted,4
+Hugo setup,GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended and Hugo Modules are supported,https://github.com/marketplace/actions/hugo-setup,4
+Create Release,Creates github releases,https://github.com/marketplace/actions/create-release,4
+Setup Go environment,Setup a Go environment and add it to the PATH,https://github.com/marketplace/actions/setup-go-environment,4
+Image Actions,Compresses Images for the Web,https://github.com/marketplace/actions/image-actions,4
+waka-box,Update a pinned gist to contain WakaTime stats,https://github.com/marketplace/actions/waka-box,4
+Close Stale Issues,Close issues and pull requests with no recent activity,https://github.com/marketplace/actions/close-stale-issues,4
+HashiCorp - Setup Terraform,Sets up Terraform CLI in your GitHub Actions workflow,https://github.com/marketplace/actions/hashicorp-setup-terraform,4
+Lost Pixel,Lost Pixel Integration,https://github.com/marketplace/actions/lost-pixel,4
+Rust Cache,A GitHub Action that implements smart caching for rust/cargo projects with sensible defaults,https://github.com/marketplace/actions/rust-cache,4
+Cypress.io,GitHub Action for running Cypress end-to-end and component tests,https://github.com/marketplace/actions/cypress-io,4
+Deploy to Cloudflare Workers with Wrangler,Deploy your Cloudflare projects from GitHub using Wrangler,https://github.com/marketplace/actions/deploy-to-cloudflare-workers-with-wrangler,4
+Replexica,Accurate AI localization for web mobile apps,https://github.com/marketplace/actions/replexica,4
+SCP Files,Copy files and artifacts via SSH,https://github.com/marketplace/actions/scp-files,4
+SCP Command to Transfer Files,How to Use SCP Command to Transfer Files/Folders in Linux,https://github.com/marketplace/actions/scp-command-to-transfer-files,4
+Automatic Pull Request,Bring your codebase alive,https://github.com/marketplace/actions/automatic-pull-request,4
+webfactory/ssh-agent,Run ssh-agent and load an SSH key to access other private repositories,https://github.com/marketplace/actions/webfactory-ssh-agent,4
+setup-mkosi,Install mkosi,https://github.com/marketplace/actions/setup-mkosi,4
+Stelligent cfn_nag,Execute cfn_nag_scan against the code in the repository where the GitHub Action workflow is run,https://github.com/marketplace/actions/stelligent-cfn_nag,4
+ssh deploy,NodeJS action for FAST deployment with rsync/ssh and remote script execution before/after rsync,https://github.com/marketplace/actions/ssh-deploy,4
+rustup toolchain install,Install the Rust toolchain,https://github.com/marketplace/actions/rustup-toolchain-install,5
+GitHub Push,Pushing to GitHub repository local changes,https://github.com/marketplace/actions/github-push,5
+Lighthouse CI Action,Audit URLs using Lighthouse and test performance with Lighthouse CI,https://github.com/marketplace/actions/lighthouse-ci-action,5
+Repo Visualizer,A GitHub Action that creates an SVG diagram of your repo,https://github.com/marketplace/actions/repo-visualizer,5
+GitHub-Profile-3D-Contrib,Generate profile 3D Contributions,https://github.com/marketplace/actions/github-profile-3d-contrib,5
+Github Action for LaTeX,GitHub Action to compile LaTeX documents,https://github.com/marketplace/actions/github-action-for-latex,5
+Add & Commit,Automatically commit changes made in your workflow run directly to your repo,https://github.com/marketplace/actions/add-commit,5
+Docker Login,GitHub Action to login against a Docker registry,https://github.com/marketplace/actions/docker-login,5
+Golangci-lint,"Official golangci-lint action with line-attached annotations for found issues, caching and parallel execution",https://github.com/marketplace/actions/golangci-lint,5
+Slack Notify,This action will send a notification to Slack,https://github.com/marketplace/actions/slack-notify,5
+Continuous Benchmark,Continuous Benchmark using GitHub pages as dash board for keeping performance,https://github.com/marketplace/actions/continuous-benchmark,5
+S3 Sync,Sync a directory to an AWS S3 repository,https://github.com/marketplace/actions/s3-sync,5
+semantic-pull-request,Ensure your PR title matches the Conventional Commits spec (https://www.conventionalcommits.org/),https://github.com/marketplace/actions/semantic-pull-request,5
+Slack: Send to Slack,"Send data to Slack to start a Slack workflow in Workflow Builder, call a Slack API method, or post a message into a
+channel",https://github.com/marketplace/actions/slack-send-to-slack,5
+Docker Setup Buildx,Set up Docker Buildx,https://github.com/marketplace/actions/docker-setup-buildx,5
+Authenticate to Google Cloud,Authenticate to Google Cloud from GitHub Actions via Workload Identity Federation or service account keys,https://github.com/marketplace/actions/authenticate-to-google-cloud,5
+Android Emulator Runner,"Installs, configures and starts an Android Emulator directly on hardware-accelerated runners",https://github.com/marketplace/actions/android-emulator-runner,5
+Repository Dispatch,Create a repository dispatch event,https://github.com/marketplace/actions/repository-dispatch,5
+Setup pnpm,Install pnpm package manager,https://github.com/marketplace/actions/setup-pnpm,5
+pypi-publish,Upload Python distribution packages to PyPI,https://github.com/marketplace/actions/pypi-publish,5
+Check PHP syntax errors,Find php syntax errors,https://github.com/marketplace/actions/check-php-syntax-errors,6
+Deploy to Heroku,Deploy an app to Heroku,https://github.com/marketplace/actions/deploy-to-heroku,6
+Setup .NET Core SDK,"Used to build and publish .NET source. Set up a specific version of the .NET and authentication to private NuGet
+repository",https://github.com/marketplace/actions/setup-net-core-sdk,6
+Setup Sherif,"Setup and run Sherif, an opinionated, zero-config linter for JavaScript monorepos",https://github.com/marketplace/actions/setup-sherif,6
+Docker Metadata action,"GitHub Action to extract metadata (tags, labels) for Docker",https://github.com/marketplace/actions/docker-metadata-action,6
+"Amazon ECR ""Login"" Action for GitHub Actions",Logs in the local Docker client to one or more Amazon ECR Private registries or an Amazon ECR Public registry,https://github.com/marketplace/actions/amazon-ecr-login-action-for-github-actions,6
+Cancel Workflow Action,This Action will cancel any previous runs that are not completed for a given workflow,https://github.com/marketplace/actions/cancel-workflow-action,6
+GitHub Action for Firebase,Wraps the firebase-tools CLI to enable common commands,https://github.com/marketplace/actions/github-action-for-firebase,6
+Telegram Message Notify,Sending a Telegram message,https://github.com/marketplace/actions/telegram-message-notify,6
+Telegram Notify,Sending a Telegram message,https://github.com/marketplace/actions/telegram-notify,6
+GoReleaser Action,"GitHub Action for GoReleaser, a release automation tool for Go projects",https://github.com/marketplace/actions/goreleaser-action,6
+Test Reporter,"Shows test results in GitHub UI: .NET (xUnit, NUnit, MSTest), Dart, Flutter, Java (JUnit), JavaScript (JEST, Mocha)",https://github.com/marketplace/actions/test-reporter,6
+Unity - Builder,Build Unity projects for different platforms,https://github.com/marketplace/actions/unity-builder,6
+Aqua Security Trivy,Scans container images for vulnerabilities with Trivy,https://github.com/marketplace/actions/aqua-security-trivy,6
+Merge pull requests (automerge-action),Automatically merge pull requests that are ready,https://github.com/marketplace/actions/merge-pull-requests-automerge-action,6
+Python Semantic Release,Automated Releases via SemVer and Commit Message Conventions,https://github.com/marketplace/actions/python-semantic-release,6
+Expo GitHub Action,"Publish, build or manage your Expo app with GitHub Actions",https://github.com/marketplace/actions/expo-github-action,6
+"Setup Ruby, JRuby and TruffleRuby",Download a prebuilt Ruby and add it to the PATH in 5 seconds,https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby,6
+GitHub - Activity - Readme,Updates README with the recent GitHub activity of a user,https://github.com/marketplace/actions/github-activity-readme,6
+Upload Android Release to Play Store,An action to upload a signed Android release (.apk or .aab) to the Google Play Store Developer Console,https://github.com/marketplace/actions/upload-android-release-to-play-store,6
+godot-ci,"Docker image to export Godot Engine games. Templates for Gitlab CI/GitHub Actions deploy to GitLab/GitHub Pages or
+Itch.io",https://github.com/marketplace/actions/godot-ci,7
+Lua LDoc,LDoc,https://github.com/marketplace/actions/lua-ldoc,7
+Github Tag Bump,Bump and push git tag on merge,https://github.com/marketplace/actions/github-tag-bump,7
+Legitify Analyze,Legitify GitHub Action,https://github.com/marketplace/actions/legitify-analyze,7
+Publish Docker,Uses the git branch as the docker tag and pushes the container,https://github.com/marketplace/actions/publish-docker,7
+First interaction,Greet new contributors when they create their first issue or open their first pull request,https://github.com/marketplace/actions/first-interaction,7
+On-demand self-hosted AWS EC2 runner for GitHub Actions,GitHub Action for automatic creation and registration AWS EC2 instance as a GitHub Actions self-hosted runner,https://github.com/marketplace/actions/on-demand-self-hosted-aws-ec2-runner-for-github-actions,7
+AI Code Review Action,Perform code reviews and comment on diffs using OpenAI API,https://github.com/marketplace/actions/ai-code-review-action,7
+Release Changelog Builder,"A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want",https://github.com/marketplace/actions/release-changelog-builder,7
+Automatic Releases,"Automate the GitHub release process with assets, changelogs, pre-releases, and more",https://github.com/marketplace/actions/automatic-releases,7
+Download workflow artifact,Download and extract an artifact associated with given workflow and commit or other criteria,https://github.com/marketplace/actions/download-workflow-artifact,7
+Create or Update Comment,Create or update an issue or pull request comment,https://github.com/marketplace/actions/create-or-update-comment,7
+swift-create-xcframework,"Creates XCFramework bundles for the products in your Swift Package and uploads them as Artifacts you can attach to a
+release",https://github.com/marketplace/actions/swift-create-xcframework,7
+Deploy to Firebase Hosting,A GitHub Action to deploy to Firebase Hosting,https://github.com/marketplace/actions/deploy-to-firebase-hosting,7
+Deploy GitHub Pages site,A GitHub Action to deploy an artifact as a GitHub Pages site,https://github.com/marketplace/actions/deploy-github-pages-site,7
+Run on architecture,"Run commands in a Linux container with a specific CPU architecture (armv6, armv7, aarch64, s390x, ppc64le)",https://github.com/marketplace/actions/run-on-architecture,7
+"Twitter, together!","Collaborate on tweets just like you collaborate on code, using pull requests",https://github.com/marketplace/actions/twitter-together,7
+Automatic Rebase,Automatically rebases PR on /rebase comment,https://github.com/marketplace/actions/automatic-rebase,7
+Gradle Build Action,"Configures Gradle for GitHub actions, caching state and generating a dependency graph via Dependency Submission",https://github.com/marketplace/actions/gradle-build-action,7
+Flank,Run Flank from Github actions,https://github.com/marketplace/actions/flank,7
+Slash Command Dispatch,Facilitates ChatOps by creating dispatch events for slash commands,https://github.com/marketplace/actions/slash-command-dispatch,9
+compressed-size-action,Get compressed size differences for every PR,https://github.com/marketplace/actions/compressed-size-action,9
+Install Poetry Action,Installs and configures Poetry,https://github.com/marketplace/actions/install-poetry-action,9
+SonarQube Cloud Scan,Scan your code with SonarQube Cloud to detect coding issues in 30+ languages. (Formerly SonarCloud),https://github.com/marketplace/actions/sonarqube-cloud-scan,9
+KiBot GitHub action,"automatically generates documentation, fabrication, etc. files for any KiCad project",https://github.com/marketplace/actions/kibot-github-action,9
+action-slack,You can notify slack of GitHub Actions,https://github.com/marketplace/actions/action-slack,9
+rust-toolchain,Install the Rust toolchain,https://github.com/marketplace/actions/rust-toolchain,9
+Lint Action,GitHub Action for detecting and fixing linting errors,https://github.com/marketplace/actions/lint-action,9
+Helm Chart Releaser,Host a Helm charts repo on GitHub Pages,https://github.com/marketplace/actions/helm-chart-releaser,9
+Install SSH Key,Install SSH key in ~/.ssh,https://github.com/marketplace/actions/install-ssh-key,9
+Add To GitHub projects,Automatically add issues and PRs to GitHub projects,https://github.com/marketplace/actions/add-to-github-projects,9
+Action For Semantic Release,GitHub Action for Semantic Release,https://github.com/marketplace/actions/action-for-semantic-release,9
+Pull request summarizer,"Write a comment about every commit in a pull request, every file diff, and summarize PR",https://github.com/marketplace/actions/pull-request-summarizer,9
+ChatGPT Integration,This action integrates ChatGPT into your CI,https://github.com/marketplace/actions/chatgpt-integration,9
+WordPress Plugin Deploy,Deploy to the WordPress Plugin Repository,https://github.com/marketplace/actions/wordpress-plugin-deploy,9
+Install Nix,Installs Nix on GitHub Actions for the supported platforms: Linux and macOS,https://github.com/marketplace/actions/install-nix,9
+GitHub App token,Run a GitHub Action as a GitHub App instead of using secrets.GITHUB_TOKEN or a personal access token,https://github.com/marketplace/actions/github-app-token,9
+Snyk,Check your applications for vulnerabilties using Snyk,https://github.com/marketplace/actions/snyk,9
+Godot Export,Automatically exports your Godot games,https://github.com/marketplace/actions/godot-export,9
+Generate & update markdown content,Automatically generate update markdown content like a README.md,https://github.com/marketplace/actions/generate-update-markdown-content,9
+Push directory to another repository,"Useful to push files to another repository to be used, for example, via github pages",https://github.com/marketplace/actions/push-directory-to-another-repository,11
+Manual Workflow Approval,Pause a workflow and get user approval to continue,https://github.com/marketplace/actions/manual-workflow-approval,11
+HashiCorp Vault,A Github Action that allows you to consume HashiCorp Vault™ secrets as secure environment variables,https://github.com/marketplace/actions/hashicorp-vault,11
+size-limit-action,size-limit action,https://github.com/marketplace/actions/size-limit-action,11
+Conform Action,Policy enforcement for your pipelines,https://github.com/marketplace/actions/conform-action,11
+Sentry Release,GitHub Action for creating a release on Sentry,https://github.com/marketplace/actions/sentry-release,11
+Retry Step,Retry a step on failure or timeout,https://github.com/marketplace/actions/retry-step,11
+Create GitHub App Token,GitHub Action for creating a GitHub App installation access token,https://github.com/marketplace/actions/create-github-app-token,11
+Python Poetry Action,An action to run https://github.com/python-poetry/poetry,https://github.com/marketplace/actions/python-poetry-action,11
+Maester Action,Monitor your Microsoft 365 tenant s security configuration using Maester THE PowerShell-based test automation framework,https://github.com/marketplace/actions/maester-action,11
+Comment Run Actions,Execute any script in a GitHub issue comment,https://github.com/marketplace/actions/comment-run-actions,11
+issue-metrics,A GitHub Action to report out issue metrics,https://github.com/marketplace/actions/issue-metrics,11
+Check links with linkcheck,Blazing fast localhost crawling via the linkcheck tool.,https://github.com/marketplace/actions/check-links-with-linkcheck,11
+Create .env file,GitHub Action to create a .env file with GitHub Secrets,https://github.com/marketplace/actions/create-env-file,11
+Flat Data,The GitHub action which powers data fetching for Flat,https://github.com/marketplace/actions/flat-data,11
+Debugging with ssh,Debug your GitHub Actions Environment interactively by using SSH,https://github.com/marketplace/actions/debugging-with-ssh,11
+Free Disk Space (Ubuntu),A configurable GitHub Action to free up disk space on an Ubuntu GitHub Actions runner,https://github.com/marketplace/actions/free-disk-space-ubuntu,11
+Auto Approve,Automatically approve pull requests,https://github.com/marketplace/actions/auto-approve,11
+Docker Layer Caching,Cache images created between main run and post run,https://github.com/marketplace/actions/docker-layer-caching,11
+branch-deploy,Enabling Branch Deployments through IssueOps with GitHub Actions,https://github.com/marketplace/actions/branch-deploy,11
+Magic Nix Cache,"Free, no-configuration Nix cache. Cut CI time by 50% or more by caching to GitHub Actions cache",https://github.com/marketplace/actions/magic-nix-cache,12
+AWS Lambda Deploy,Deploying Lambda code to an existing function,https://github.com/marketplace/actions/aws-lambda-deploy,12
+markdown-link-check,Check if all links are valid in markdown files,https://github.com/marketplace/actions/markdown-link-check,12
+Setup Miniconda,Set up Conda package and environment manager with Miniconda,https://github.com/marketplace/actions/setup-miniconda,12
+Actions for Discord,Outputs a message to Discord,https://github.com/marketplace/actions/actions-for-discord,12
+Authz0 scanner,Unauthorized access can be identified based on URLs and Roles Credentials,https://github.com/marketplace/actions/authz0-scanner,12
+TestForest Dashboard,Display test results summary in a GitHub Actions workflow,https://github.com/marketplace/actions/testforest-dashboard,12
+Maximize build disk space,Maximize the available disk space for your build job,https://github.com/marketplace/actions/maximize-build-disk-space,12
+Github Sync,⤵️ Sync current repository with remote,https://github.com/marketplace/actions/github-sync,12
+Fork Sync,Keep your fork up to date,https://github.com/marketplace/actions/fork-sync,12
+setup-beam,"Set up a BEAM-based CI environment, supporting languages and tools such as Erlang/OTP, Elixir, Gleam, rebar3, and hex.",https://github.com/marketplace/actions/setup-beam,12
+Firebase App Distribution,GitHub Action that uploads artifacts to Firebase App Distribution,https://github.com/marketplace/actions/firebase-app-distribution,12
+GitHub Deployments,GitHub action for working painlessly with deployment statuses,https://github.com/marketplace/actions/github-deployments,12
+GitHub API Request,Send arbitrary requests to GitHub s REST API,https://github.com/marketplace/actions/github-api-request,12
+Rust Release binary,Automate publishing Rust build artifacts for GitHub releases through GitHub Actions,https://github.com/marketplace/actions/rust-release-binary,12
+Rsync Deployments Action,GitHub Action for deploying code via rsync over ssh,https://github.com/marketplace/actions/rsync-deployments-action,12
+Luacheck,Luacheck,https://github.com/marketplace/actions/luacheck,12
+GitHub Action for SwiftLint,A tool to enforce Swift style and conventions,https://github.com/marketplace/actions/github-action-for-swiftlint,12
+Readme Update,Workflow for displaying recent in your readme,https://github.com/marketplace/actions/readme-update,12
+Sign Android release,An action to sign an Android release APK or AAB,https://github.com/marketplace/actions/sign-android-release,12
+Pull Request Stats,Github action to print relevant stats about Pull Request reviewers,https://github.com/marketplace/actions/pull-request-stats,13
+Issues Helper,A GitHub Action that easily helps you automatically manage issues,https://github.com/marketplace/actions/issues-helper,13
+Publish Native Installers,Publish jDeploy Bundles on Github or npm,https://github.com/marketplace/actions/publish-native-installers,13
+xcresulttool,generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks,https://github.com/marketplace/actions/xcresulttool,13
+Dev Container Build and Run Action,Action to simplify using Dev Containers (https://containers.dev) in GitHub workflows,https://github.com/marketplace/actions/dev-container-build-and-run-action,13
+Deploy Ghost Theme,Build deploy a theme to your Ghost site,https://github.com/marketplace/actions/deploy-ghost-theme,13
+Delete Package Versions,Deletes package versions,https://github.com/marketplace/actions/delete-package-versions,13
+Git Semantic Version,Determines version of a repo based on git history,https://github.com/marketplace/actions/git-semantic-version,13
+Gitleaks,run gitleaks on push and pull-request events,https://github.com/marketplace/actions/gitleaks,13
+Enable Developer Command Prompt,Configure Microsoft Visual C++ command line,https://github.com/marketplace/actions/enable-developer-command-prompt,13
+Logseq Publish,Publish your Logseq Graph,https://github.com/marketplace/actions/logseq-publish,13
+Deploy to Deno Deploy,"Deploy your applications to Deno Deploy, right from GitHub Actions",https://github.com/marketplace/actions/deploy-to-deno-deploy,13
+Upload GitHub Pages artifact,A composite action that prepares your static assets to be deployed to GitHub Pages,https://github.com/marketplace/actions/upload-github-pages-artifact,13
+Pull Request size labeler,Label a PR based on the amount of changes,https://github.com/marketplace/actions/pull-request-size-labeler,13
+setup-msbuild,Helps set up MSBuild into PATH for later usage,https://github.com/marketplace/actions/setup-msbuild,13
+Wait on check,Wait on a certain check to pass for commit,https://github.com/marketplace/actions/wait-on-check,13
+Code Review with ChatGPT,Automating code review using ChatGPT with Github Actions integration on PRs for code explanations,https://github.com/marketplace/actions/code-review-with-chatgpt,13
+Comment Pull Request,Comments a pull request with the provided message,https://github.com/marketplace/actions/comment-pull-request,13
+Remove artifacts,,https://github.com/marketplace/actions/remove-artifacts,13
+Github Pull Request,⤵️ Create pull request,https://github.com/marketplace/actions/github-pull-request,13
+Jekyll Deploy Action,🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages,https://github.com/marketplace/actions/jekyll-deploy-action,14
+JUnit Report Action,Report JUnit test results as annotations on Github Pull Request [junit],https://github.com/marketplace/actions/junit-report-action,14
+Build docker images using cache,Use registry to pull/push cache for an image (stages included),https://github.com/marketplace/actions/build-docker-images-using-cache,14
+Lighthouse Audit,Run tests on a webpage via Google s Lighthouse tool,https://github.com/marketplace/actions/lighthouse-audit,14
+Docker Hub Description,An action to update a Docker Hub repository description from README.md,https://github.com/marketplace/actions/docker-hub-description,14
+Azure Login,Authenticate to Azure and run your Azure CLI or Azure PowerShell based actions or scripts,https://github.com/marketplace/actions/azure-login,14
+Dependabot Auto Merge,Automatically merge Dependabot PRs when version comparison is within range,https://github.com/marketplace/actions/dependabot-auto-merge,14
+Run Playwright tests,Run Playwright tests on GitHub Actions,https://github.com/marketplace/actions/run-playwright-tests,14
+Workflow Dispatch,Trigger and chain GitHub Actions workflows with workflow_dispatch events,https://github.com/marketplace/actions/workflow-dispatch,14
+Lychee Broken Link Checker,"Quickly check links in Markdown, HTML, and text files",https://github.com/marketplace/actions/lychee-broken-link-checker,14
+Trigger Workflow and Wait,This action triggers a workflow in another repository and waits for the result,https://github.com/marketplace/actions/trigger-workflow-and-wait,14
+Automated Version Bump,Automated version bump for npm packages,https://github.com/marketplace/actions/automated-version-bump,14
+Netlify Actions,Netlify deploy from GitHub Actions,https://github.com/marketplace/actions/netlify-actions,14
+PyCharm Python Security Scanner,Scan your Python Code for security issues,https://github.com/marketplace/actions/pycharm-python-security-scanner,14
+GitGuardian Shield Action,Scan commits for secrets and other issues,https://github.com/marketplace/actions/gitguardian-shield-action,14
+Create Issue Branch,GitHub action that creates a new branch after assigning an issue,https://github.com/marketplace/actions/create-issue-branch,14
+Import GPG,GitHub Action to easily import a GPG key,https://github.com/marketplace/actions/import-gpg,14
+GitHub Project Automation+,🤖 Automate GitHub Project cards with any webhook event,https://github.com/marketplace/actions/github-project-automation,14
+Workflow Telemetry,Workflow Telemetry,https://github.com/marketplace/actions/workflow-telemetry,14
+Cloud Functions Deploy,Use this action to deploy your function or update an existing Cloud Function,https://github.com/marketplace/actions/cloud-functions-deploy,14
+github-repo-stats,github-repo-stats,https://github.com/marketplace/actions/github-repo-stats,15
+Auto Assign Action,Add reviewers to pull requests when pull requests are opened,https://github.com/marketplace/actions/auto-assign-action,15
+Renovate Bot GitHub Action,GitHub Action to run self-hosted Renovate,https://github.com/marketplace/actions/renovate-bot-github-action,15
+conventional-release-labels,automatically adds labels to pull requests based on Conventional Commits. Works with GitHub automated releases,https://github.com/marketplace/actions/conventional-release-labels,15
+Fastlane Action,An action for executing fastlane lanes,https://github.com/marketplace/actions/fastlane-action,15
+Setup MSYS2,Setup an MSYS2 environment,https://github.com/marketplace/actions/setup-msys2,15
+Delete merged branch,"No more manually deleting merged branches, this lovely app does it for you",https://github.com/marketplace/actions/delete-merged-branch,15
+LeetCode Sync,Sync LeetCode submissions to GitHub,https://github.com/marketplace/actions/leetcode-sync,15
+Run Ansible playbook,Execute Ansible playbook on selected hosts,https://github.com/marketplace/actions/run-ansible-playbook,15
+ZAP Baseline Scan,Scans the web application with the ZAP Baseline Scan,https://github.com/marketplace/actions/zap-baseline-scan,15
+Secrets Sync Action,Copies secrets from the action s environment to many other repos,https://github.com/marketplace/actions/secrets-sync-action,15
+Lock Threads,"Lock closed issues, pull requests and discussions after a period of inactivity",https://github.com/marketplace/actions/lock-threads,15
+mxcl/Xcodebuild,A continuously resilient xcodebuild action. “The best xcodebuild action by far.” ―mxcl,https://github.com/marketplace/actions/mxcl-xcodebuild,15
+Pydantic to Typescript,Convert pydantic models into typescript definitions and ensure that your type definitions are in sync.,https://github.com/marketplace/actions/pydantic-to-typescript,15
+action turnstyle,A GitHub Action for serializing workflow runs,https://github.com/marketplace/actions/action-turnstyle,15
+Kind Cluster,Create a kind (Kubernetes IN Docker) cluster,https://github.com/marketplace/actions/kind-cluster,15
+Frogbot by JFrog,JFrog Frogbot is a Git bot that scans your pull requests and repositories for security vulnerabilities,https://github.com/marketplace/actions/frogbot-by-jfrog,15
+Install development tools,GitHub Action for installing development tools,https://github.com/marketplace/actions/install-development-tools,15
+astral-sh/setup-uv,Set up your GitHub Actions workflow with a specific version of uv,https://github.com/marketplace/actions/astral-sh-setup-uv,15
+ShellCheck,GitHub action for ShellCheck,https://github.com/marketplace/actions/shellcheck,15
+Prettier Action,Automatically runs prettier on all your changes,https://github.com/marketplace/actions/prettier-action,17
+OSSF Scorecard action,Run OSSF Scorecard checks and output results in SARIF format,https://github.com/marketplace/actions/ossf-scorecard-action,17
+Check Spelling,Spell check code and commits,https://github.com/marketplace/actions/check-spelling,17
+HTTP Request Action,Create any HTTP Request,https://github.com/marketplace/actions/http-request-action,17
+API testing with Kubernetes,API testing with Kubernetes,https://github.com/marketplace/actions/api-testing-with-kubernetes,17
+is-my-node-vulnerable,checks if your Node.js installation is vulnerable to known security vulnerabilities,https://github.com/marketplace/actions/is-my-node-vulnerable,17
+Update Nix Flake Lock,Update your Nix flake.lock and send a PR,https://github.com/marketplace/actions/update-nix-flake-lock,17
+Dastardly Scan Action,Runs a Dastardly scan against a target site,https://github.com/marketplace/actions/dastardly-scan-action,17
+"""AWS CodeBuild run build"" Action For GitHub Actions",Execute CodeBuild::startBuild for the current repo,https://github.com/marketplace/actions/aws-codebuild-run-build-action-for-github-actions,17
+Create an issue,Creates a new issue using a template with front matter,https://github.com/marketplace/actions/create-an-issue,17
+panvimdoc,Convert pandoc input to vimdoc output,https://github.com/marketplace/actions/panvimdoc,17
+Cachix,nix-build with the help of caching to Cachix,https://github.com/marketplace/actions/cachix,17
+Post Slack messages,Post Slack messages from your own bot,https://github.com/marketplace/actions/post-slack-message,17
+Build unikernel images with Unikraft,"Build, push and run unikernel images with Unikraft",https://github.com/marketplace/actions/build-unikernel-images-with-unikraft,17
+Upstream Sync,"Automatically updates a target branch with new commits from an upstream repo, great for forks or parallel projects",https://github.com/marketplace/actions/upstream-sync,17
+Setup Swift,Setup a Swift environment on Ubuntu or macOS,https://github.com/marketplace/actions/setup-swift,17
+gpt-review,Review your PRs with a GPT Model from Azure Open AI,https://github.com/marketplace/actions/gpt-review,17
+Qodana Scan,Scan your projects with Qodana on GitHub. Docs: https://jb.gg/qodana-github-action,https://github.com/marketplace/actions/qodana-scan,17
+FreeBSD-vm,Run CI in FreeBSD for GitHub Actions,https://github.com/marketplace/actions/freebsd-vm,17
+Profile Readme Stats,Showcase your github stats on your profile README.md,https://github.com/marketplace/actions/profile-readme-stats,17
+Dynamic Badges,Create badges via shields.io/endpoint for your README.md which may change with every commit,https://github.com/marketplace/actions/dynamic-badges,18
+Deploy to Kubernetes cluster,"Deploy to a Kubernetes cluster including, but not limited to Azure Kubernetes Service (AKS) clusters",https://github.com/marketplace/actions/deploy-to-kubernetes-cluster,18
+Gradle Wrapper Validation,Validates Gradle Wrapper JAR Files,https://github.com/marketplace/actions/gradle-wrapper-validation,18
+Pulumi CLI Action,"Pulumi s GitHub Actions deploy apps and infrastructure to your cloud of choice, using just your favorite language and
+GitHub",https://github.com/marketplace/actions/pulumi-cli-action,18
+Run Stack Analyser,Run Specfy s Stack Analyser and send update to Specfy API,https://github.com/marketplace/actions/run-stack-analyser,18
+Deploy to App Engine,Deploy and promote a new service to Google App Engine,https://github.com/marketplace/actions/deploy-to-app-engine,18
+License Eye Header,A full-featured license tool to check and fix license headers and dependencies licenses,https://github.com/marketplace/actions/license-eye-header,18
+Logseq Publish SPA,Publishes a Logseq graph as a Single Page Application (SPA),https://github.com/marketplace/actions/logseq-publish-spa,18
+GitHub Slug Action,GitHub Action to expose slug value of environment variables inside your GitHub workflow,https://github.com/marketplace/actions/github-slug-action,18
+Helm Chart Testing,Install the Helm chart-testing tool,https://github.com/marketplace/actions/helm-chart-testing,18
+Build and upload Rust binary to GitHub Releases,GitHub Action for building and uploading Rust binary to GitHub Releases,https://github.com/marketplace/actions/build-and-upload-rust-binary-to-github-releases,18
+Deploy MkDocs,Deploys MkDocs site,https://github.com/marketplace/actions/deploy-mkdocs,18
+Checkov GitHub Action,"Run Checkov against Terraform/CloudFormation infrastructure code, as a pre-packaged GitHub Action",https://github.com/marketplace/actions/checkov-github-action,18
+"AWS CloudFormation ""Deploy CloudFormation Stack"" Action for GitHub Actions",Deploys a AWS CloudFormation stack,https://github.com/marketplace/actions/aws-cloudformation-deploy-cloudformation-stack-action-for-github-actions,18
+PR Labeler,Automatically labels your PRs based on branch name patterns like feature/* or fix/*,https://github.com/marketplace/actions/pr-labeler,18
+SFTP Deploy,Deploy file to your server use sftp ssh private key,https://github.com/marketplace/actions/sftp-deploy,18
+S3 Deploy,Deploy a static website to AWS S3 and invalidate CloudFront distribution,https://github.com/marketplace/actions/s3-deploy,18
+Setup JFrog CLI,Install and configure JFrog CLI,https://github.com/marketplace/actions/setup-jfrog-cli,18
+Mirroring Repository,"Mirror a repository to another repository on GitHub, GitLab, BitBucket, AWS CodeCommit, etc",https://github.com/marketplace/actions/mirroring-repository,18
+Nuclei - Vulnerability Scan,Nuclei is a fast and customisable vulnerability scanner based on simple YAML based DSL,https://github.com/marketplace/actions/nuclei-vulnerability-scan,18
+mc-publish,Your one-stop GitHub Action for seamless Minecraft project publication across various platforms,https://github.com/marketplace/actions/mc-publish,19
+Zola Deploy to Pages,Build and deploy a Zola site to GitHub Pages,https://github.com/marketplace/actions/zola-deploy-to-pages,19
+gitartwork on contribution graph,gitartwork on users contribution graph,https://github.com/marketplace/actions/gitartwork-on-contribution-graph,19
+actions-template-sync,Synchronises changes of the template repository,https://github.com/marketplace/actions/actions-template-sync,19
+Infracost Actions,See cloud cost estimates for Terraform in pull requests,https://github.com/marketplace/actions/infracost-actions,19
+Run eslint with reviewdog,🐶 Run eslint with reviewdog on pull requests to improve code review experience,https://github.com/marketplace/actions/run-eslint-with-reviewdog,19
+unimport,Get rid of all unused imports 🥳,https://github.com/marketplace/actions/unimport,19
+KinD (Kubernetes in Docker) Action,Easily run a Kubernetes cluster in your GitHub Action,https://github.com/marketplace/actions/kind-kubernetes-in-docker-action,19
+Steam - Deploy,Deploy game builds to Steam using the SteamSDK,https://github.com/marketplace/actions/steam-deploy,19
+Google Cloud Platform (GCP) CLI - gcloud,GitHub Action with all the components of the Google Cloud SDK,https://github.com/marketplace/actions/google-cloud-platform-gcp-cli-gcloud,19
+Carbonate,Generate beautiful images for code blocks present in issues,https://github.com/marketplace/actions/carbonate,19
+Run SSH command,Github Action to run commands on a remote server using SSH,https://github.com/marketplace/actions/run-ssh-command,19
+Cloud Storage Uploader,Upload files or folders to GCS buckets,https://github.com/marketplace/actions/cloud-storage-uploader,19
+Official SonarQube Scan,Scan your code with SonarQube Server and Cloud to detect issues in 30+ languages. (Formerly SonarQube and SonarCloud),https://github.com/marketplace/actions/official-sonarqube-scan,19
+MongoDB in GitHub Actions,Start a MongoDB server (on default port 27017 or a custom port),https://github.com/marketplace/actions/mongodb-in-github-actions,19
+Setup Rust Toolchain for GitHub CI,Setup specific Rust versions with caching pre-configured. It provides problem matchers for cargo and rustfmt issues.,https://github.com/marketplace/actions/setup-rust-toolchain-for-github-ci,19
+GitTools,Build tasks for easy semantic versioning for projects using Git and release management,https://github.com/marketplace/actions/gittools,19
+Install PHP Dependencies with Composer,"Installs and caches PHP dependencies with Composer, accepting arguments to configure how and what to install",https://github.com/marketplace/actions/install-php-dependencies-with-composer,19
+automated-build-android-app-with-github-action,Automated build android app bundle and apk with github action,https://github.com/marketplace/actions/automated-build-android-app-with-github-action,19
+foundry-toolchain,Install Foundry,https://github.com/marketplace/actions/foundry-toolchain,19
+TOC Generator,GitHub Action to generate TOC,https://github.com/marketplace/actions/toc-generator,20
+Get All Changed Files,Get all of the files changed/modified in a pull request or push s commits,https://github.com/marketplace/actions/get-all-changed-files,20
+Anchore Container Scan,Scan docker containers with Grype for vulnerabilities,https://github.com/marketplace/actions/anchore-container-scan,20
+Jetstack Paranoia,Validate the presence or absence of certificate authorities in your container image.,https://github.com/marketplace/actions/jetstack-paranoia,20
+Has Changed Path,Detects whether a path or a combination of paths were changed in the previous commit,https://github.com/marketplace/actions/has-changed-path,20
+Sponsor Labels,Labels issues and pull requests if the author is a sponsor,https://github.com/marketplace/actions/sponsor-labels,20
+GitHub CODEOWNERS Validator,GitHub action to ensure the correctness of your CODEOWNERS file,https://github.com/marketplace/actions/github-codeowners-validator,20
+Cache APT Packages,Install APT based packages and cache them for future runs,https://github.com/marketplace/actions/cache-apt-packages,20
+Nrwl Nx,Wrap the Nx monorepo tool and execute tasks depending on the action context,https://github.com/marketplace/actions/nrwl-nx,20
+powerplatform-actions,Power Platform Getting started with Who Am I,https://github.com/marketplace/actions/powerplatform-actions,20
+Unity - Test runner,Run tests for any Unity project,https://github.com/marketplace/actions/unity-test-runner,20
+Docker Run Action,Run a command in a new container,https://github.com/marketplace/actions/docker-run-action,20
+Publish to npm,Automatically publish new versions to npm,https://github.com/marketplace/actions/publish-to-npm,20
+Run golangci-lint with reviewdog,🐶 Run golangci-lint with reviewdog on pull requests to improve code review experience,https://github.com/marketplace/actions/run-golangci-lint-with-reviewdog,20
+Setup Android SDK Tools,Setup the Android SDK Tools and add them to the path,https://github.com/marketplace/actions/setup-android-sdk-tools,20
+Trunk Check,The official trunk.io GitHub action,https://github.com/marketplace/actions/trunk-check,20
+Push git subdirectory as branch,Push a subdirectory as a branch to any git repo over SSH (or to the local repo),https://github.com/marketplace/actions/push-git-subdirectory-as-branch,20
+GitHub Readme YouTube Cards,Workflow for displaying recent YouTube videos as SVG cards in your readme,https://github.com/marketplace/actions/github-readme-youtube-cards,20
+Automate pull request generation and tagging for releases using tagpr,install and run the tagpr,https://github.com/marketplace/actions/automate-pull-request-generation-and-tagging-for-releases-using-tagpr,20
+kubectl-simple,The kubectl command line program as a GitHub Action,https://github.com/marketplace/actions/kubectl-simple,20
+Publish VS Code Extension,Publish your VSCode extension to the VS Marketplace (using vsce) or the Open VSX Registry (using ovsx) with ease,https://github.com/marketplace/actions/publish-vs-code-extension,21
+Branch Names,Retrieve github branch or tag information without the /ref/* prefix,https://github.com/marketplace/actions/branch-names,21
+Docker Buildx Bake,GitHub Action to use Docker Buildx Bake as a high-level build command,https://github.com/marketplace/actions/docker-buildx-bake,21
+goreadme,Goreadme command line tool and Github action,https://github.com/marketplace/actions/goreadme,21
+GPT Translate,Markdown translation into any other language powered by ChatGPT,https://github.com/marketplace/actions/gpt-translate,21
+Import Code-Signing Certificates,Imports a PKCS12 certificate and private key into a macOS Keychain,https://github.com/marketplace/actions/import-code-signing-certificates,21
+posener/goaction,Creates action files for Go code,https://github.com/marketplace/actions/posener-goaction,21
+todo-actions,Convert TODO comments into issues,https://github.com/marketplace/actions/todo-actions,21
+Code Coverage Summary,A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary,https://github.com/marketplace/actions/code-coverage-summary,21
+emilpriver/geni,Migrate your migrations using geni,https://github.com/marketplace/actions/emilpriver-geni,21
+AsyncAPI CLI Action,One stop solution for all your AsyncAPI Specification needs in github actions,https://github.com/marketplace/actions/asyncapi-cli-action,21
+Add PR Comment,Add a comment to a pull request,https://github.com/marketplace/actions/add-pr-comment,21
+Load secrets from 1Password,Make secrets from 1Password Connect available as environment variables in the next steps,https://github.com/marketplace/actions/load-secrets-from-1password,21
+AWS CDK GitHub Actions,Runs AWS-CDK via GitHub Actions,https://github.com/marketplace/actions/aws-cdk-github-actions,21
+Hadolint Action,Action that runs Hadolint Dockerfile linting tool,https://github.com/marketplace/actions/hadolint-action,21
+Make OpenWrt using flippy's script,"Support Amlogic, Rockchip and Allwinner boxes",https://github.com/marketplace/actions/make-openwrt-using-flippy-s-script,21
+GitHub Checks,Wrapper around the GitHub Checks API,https://github.com/marketplace/actions/github-checks,21
+RegEx Issue Labeler,Labels issues automatically based on their body,https://github.com/marketplace/actions/regex-issue-labeler,21
+Setup Cpp (C++ / C),Install all the tools required for building and testing C++/C projects,https://github.com/marketplace/actions/setup-cpp-c-c,21
+Generate gas diff,Easily compare gas reports generated by foundry,https://github.com/marketplace/actions/generate-gas-diff,21
+Set up OCaml,Set up an OCaml and opam environment and add to PATH,https://github.com/marketplace/actions/set-up-ocaml,22
+Vale Linter,"The official GitHub Action for Vale -- install, manage, and run Vale with ease",https://github.com/marketplace/actions/vale-linter,22
+Container Retention Policy,Create a retention policy for your GHCR hosted container images,https://github.com/marketplace/actions/container-retention-policy,22
+Pull Request Comment Trigger,"Look for a trigger word in a pull-request description or comment, so that later steps can know whether or not to run",https://github.com/marketplace/actions/pull-request-comment-trigger,22
+Deploy to Neocities,Efficiently deploy a folder to Neocities.org,https://github.com/marketplace/actions/deploy-to-neocities,22
+web deploy anything,Deploy websites via sftp/ssh/rsync,https://github.com/marketplace/actions/web-deploy-anything,22
+Code Climate Coverage Action,Publish code coverage to Code Climate,https://github.com/marketplace/actions/code-climate-coverage-action,22
+Delete Artifact,Delete artifacts created within the workflow run,https://github.com/marketplace/actions/delete-artifact,22
+Fetch Metadata from Dependabot PRs,Extract information from about the dependency being updated by a Dependabot-generated PR,https://github.com/marketplace/actions/fetch-metadata-from-dependabot-prs,22
+Jenkinsfile Runner Prepackaged,Runs Jenkinsfile in a pre-packaged single-shot master,https://github.com/marketplace/actions/jenkinsfile-runner-prepackaged,22
+Label Syncer,Sync GitHub labels in the declarative way,https://github.com/marketplace/actions/label-syncer,22
+WebPageTest GitHub Action,Automatically test code changes in WebPageTest and enforce performance budgets,https://github.com/marketplace/actions/webpagetest-github-action,22
+Delete workflow runs,An action to delete workflow runs in a repository,https://github.com/marketplace/actions/delete-workflow-runs,22
+Setup Dart SDK,Download and setup the Dart SDK,https://github.com/marketplace/actions/setup-dart-sdk,22
+GitHub Action for GraalVM,Set up a specific version of the GraalVM JDK and add the command-line tools to the PATH,https://github.com/marketplace/actions/github-action-for-graalvm,22
+VHS Action,Run VHS to render terminal videos,https://github.com/marketplace/actions/vhs-action,22
+Sphinx Build,Builds documentation using Sphinx,https://github.com/marketplace/actions/sphinx-build,22
+run-vcpkg,Setup (and optionally run) vcpkg to build C/C++ dependencies and cache them automatically,https://github.com/marketplace/actions/run-vcpkg,22
+Publish NuGet,"Build, Pack Publish a NuGet package with dotnet core on project version change",https://github.com/marketplace/actions/publish-nuget,22
+slack - GitHub Actions Slack integration,"Notify Slack of GitHub Actions workflows, jobs and step status",https://github.com/marketplace/actions/slack-github-actions-slack-integration,22
+Uptoc Action,"Publish your static files, support oss,cos,qiniu,aws s3,google storage",https://github.com/marketplace/actions/uptoc-action,23
+Issues Translator,The action for translating Non-English issues content to English,https://github.com/marketplace/actions/issues-translator,23
+GitHub Action for Slack,Outputs a message to Slack,https://github.com/marketplace/actions/github-action-for-slack,23
+go-mnd,Runs the Golang magic number detector,https://github.com/marketplace/actions/go-mnd,23
+Evergreen action,A GitHub Action to request dependabot enablement on eligible repositories in an organization,https://github.com/marketplace/actions/evergreen-action,23
+Copy via ssh,Github Action to copy a folder to a remote server using SSH,https://github.com/marketplace/actions/copy-via-ssh,23
+action-github-app-token,Gets a GitHub auth token for a GitHub App installation,https://github.com/marketplace/actions/action-github-app-token,23
+Pytest Coverage Comment,Comments a pull request with the pytest code coverage badge and full report,https://github.com/marketplace/actions/pytest-coverage-comment,23
+Setup Clojure,Setup your runner with Clojure build tools,https://github.com/marketplace/actions/setup-clojure,23
+PR Review Apps on fly.io,Deploy temporary apps from pull requests on Fly.io,https://github.com/marketplace/actions/pr-review-apps-on-fly-io,23
+Github Release,Publish Github releases from an action,https://github.com/marketplace/actions/github-release,23
+Keepalive Workflow,GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity,https://github.com/marketplace/actions/keepalive-workflow,23
+release-downloader,Download release assets from private or public github repositories,https://github.com/marketplace/actions/release-downloader,23
+DeepSeek CR,"🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with DeepSeek Code Review 🚀",https://github.com/marketplace/actions/deepseek-cr,23
+Label approved pull requests,Auto-label pull requests that have a specified number of approvals,https://github.com/marketplace/actions/label-approved-pull-requests,23
+screenshot-website,Capture screenshot of a website,https://github.com/marketplace/actions/screenshot-website,23
+Get Diff Action,GitHub actions to get git diff,https://github.com/marketplace/actions/get-diff-action,23
+Black Code Formatter,Format Python code using black,https://github.com/marketplace/actions/black-code-formatter,23
+Build with Gradle,"A collection of actions for building Gradle projects, as well as generating a dependency graph via Dependency Submission",https://github.com/marketplace/actions/build-with-gradle,23
+Kubernetes toolset,"Github Action with Kubernetes tools: kubectl, kustomize, helm, kubeval, kubeaudit, conftest, jq, yq, go",https://github.com/marketplace/actions/kubernetes-toolset,23
+Build and Inspect a Python Package,"Builds the current package using standard PyPA tooling, keeps it as artifacts, then performs checks on it",https://github.com/marketplace/actions/build-and-inspect-a-python-package,24
+WinGet Releaser,Publish new releases of your application to Windows Package Manager easily,https://github.com/marketplace/actions/winget-releaser,24
+Random RickRoll,Make GitHub rick-roll innocent people,https://github.com/marketplace/actions/random-rickroll,24
+The Determinate Nix Installer,Install Nix with the Determinate Nix Installer. See: https://github.com/DeterminateSystems/nix-installer,https://github.com/marketplace/actions/the-determinate-nix-installer,24
+Find Comment,Find an issue or pull request comment,https://github.com/marketplace/actions/find-comment,24
+Issue Label Manager Action,Will update repo s labels based on data in JSON file located at $REPO/.github/labels.json,https://github.com/marketplace/actions/issue-label-manager-action,24
+AbsaOSS/k3d-action,"A GitHub Action to run fully customizable k3s clusters during workflow. Provides an image registry and multi-cluster
+support",https://github.com/marketplace/actions/absaoss-k3d-action,24
+Deployment Action,Creates a GitHub Deployment,https://github.com/marketplace/actions/deployment-action,24
+PR Statistics,PR 통계를 냅니다,https://github.com/marketplace/actions/pr-statistics,24
+OSKAR-PHP-CS-Fixer,Use PHP-CS-Fixer via GithubAction,https://github.com/marketplace/actions/oskar-php-cs-fixer,24
+Get Latest Tag,Get the latest tag from git and outputs that for use in other actions,https://github.com/marketplace/actions/get-latest-tag,24
+run-cmake,"Run CMake with CMakePreset.json to configure, build, package and test C/C++ source code",https://github.com/marketplace/actions/run-cmake,24
+Markdown autodocs,"A github action that automatically format markdown files, sync external docs/src code make better docs",https://github.com/marketplace/actions/markdown-autodocs,24
+Upload app to TestFlight,Uploads an app to Apple TestFlight,https://github.com/marketplace/actions/upload-app-to-testflight,24
+workflow-application-token-action,Obtain a temporary access token for a GitHub Application when running in a GitHub Actions Workflow,https://github.com/marketplace/actions/workflow-application-token-action,24
+Hyperlink link checker,Run hyperlink link checker on a folder of static HTML,https://github.com/marketplace/actions/hyperlink-link-checker,24
+Composer (php-actions),Use the Composer CLI in your Github Actions,https://github.com/marketplace/actions/composer-php-actions,24
+bird-box,Update a pinned gist to contain the latest tweets of a user,https://github.com/marketplace/actions/bird-box,24
+Push a file to another repository,Used for pushing a copy of a file to another repository,https://github.com/marketplace/actions/push-a-file-to-another-repository,24
+GitHub Environment Variables Action,Expose useful Environment Variables,https://github.com/marketplace/actions/github-environment-variables-action,24
+continuous-reforestation,Plant trees within your development workflow with digitalhumani.com,https://github.com/marketplace/actions/continuous-reforestation,25
+Auto Update,A GitHub Action that auto-updates PRs with changes from their destination branch,https://github.com/marketplace/actions/auto-update,25
+SAML.to Assume AWS Role,GitHub Action Assume AWS Roles using SAML.to,https://github.com/marketplace/actions/saml-to-assume-aws-role,25
+Actions Status Discord,Post Github Actions CI status to Discord,https://github.com/marketplace/actions/actions-status-discord,25
+Upload to IPFS,"The GitHub Action allows uploading DApps or content to IPFS. It supports IPFS, Pinata, Infura pinning services",https://github.com/marketplace/actions/upload-to-ipfs,25
+crowdin-action,This action allows you to manage and synchronize localization resources with your Crowdin project,https://github.com/marketplace/actions/crowdin-action,25
+Vitest Coverage Report,Provide a Vitest Test Coverage Report as Step-Summary and comment in Pull Requests,https://github.com/marketplace/actions/vitest-coverage-report,25
+PyInstaller Windows,Customisable GitHub Action to package your python code with PyInstaller for Windows,https://github.com/marketplace/actions/pyinstaller-windows,25
+Find Current Pull Request,Find a PR associated with the current commit,https://github.com/marketplace/actions/find-current-pull-request,25
+LaTeX compilation,"Compiles latex documents using pdflatex, lualatex, xelatex. Full TeXLive distribution",https://github.com/marketplace/actions/latex-compilation,25
+Upload to Release,Uploads a file to a new release,https://github.com/marketplace/actions/upload-to-release,25
+bump-homebrew-formula,Bump Homebrew formula after a new release,https://github.com/marketplace/actions/bump-homebrew-formula,25
+Tiangolo's Latest Changes,Update the release notes with the latest changes right after a PR is merged,https://github.com/marketplace/actions/tiangolo-s-latest-changes,25
+Git Release,Create a GitHub Release with Assets and Changelog,https://github.com/marketplace/actions/git-release,25
+Deploy WordPress to WP Engine,Deploy WordPress projects to a WP Engine account using SSH Gateway,https://github.com/marketplace/actions/deploy-wordpress-to-wp-engine,25
+Dokku,Official Github Action for deploying apps to a Dokku installation,https://github.com/marketplace/actions/dokku,25
+VirusTotal GitHub Action,GitHub Action to upload and scan files with VirusTotal,https://github.com/marketplace/actions/virustotal-github-action,25
+Anchore SBOM Action,Creates an SBOM (Software Bill Of Materials) from your code and container images,https://github.com/marketplace/actions/anchore-sbom-action,25
+Pull Request Action,A GitHub action to open a pull request,https://github.com/marketplace/actions/pull-request-action,25
+Flatpak Builder,Flatpak Applications Builder,https://github.com/marketplace/actions/flatpak-builder,25
+Notify Slack Action,Send Github Actions workflow status notifications to Slack,https://github.com/marketplace/actions/notify-slack-action,26
+Duplicate code detection tool,Detect similarities between source code files,https://github.com/marketplace/actions/duplicate-code-detection-tool,26
+Assign to One Project,Assign new/labeled Issue or Pull Request to a specific project dashboard column,https://github.com/marketplace/actions/assign-to-one-project,26
+Astro Deploy,A composite action that prepares your Astro site to be deployed to GitHub Pages,https://github.com/marketplace/actions/astro-deploy,26
+Zip Release,Make an archive from specified files and directories as workflow action,https://github.com/marketplace/actions/zip-release,26
+cargo-multivers,Build multiple versions of a binary with different CPU features set merged into one portable optimized binary,https://github.com/marketplace/actions/cargo-multivers,26
+Preview Environments for GitHub,Ephemeral preview deployments of your app for every pull request. Just using Docker Compose. In your AWS account,https://github.com/marketplace/actions/preview-environments-for-github,26
+setup-scala,"GitHub Action to install any version of Java (GraalVM, Java 8, Java 11, Java 14, ...)",https://github.com/marketplace/actions/setup-scala,26
+rust-audit-check,Run cargo audit and check for security advisories,https://github.com/marketplace/actions/rust-audit-check,26
+Terraform/OpenTofu via Pull Request,"Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows",https://github.com/marketplace/actions/terraform-opentofu-via-pull-request,26
+Verify Changed files,Find files that were modified during workflow execution,https://github.com/marketplace/actions/verify-changed-files,26
+Private Action Loader,Enables private Actions to be easily reused across repositories,https://github.com/marketplace/actions/private-action-loader,26
+Upload S3,Upload directory to S3,https://github.com/marketplace/actions/upload-s3,26
+Contribute List,Automation of contributors list in README.md,https://github.com/marketplace/actions/contribute-list,26
+Dart Analyze with Annotations,A GitHub action to run Dart analyzer with annotation support,https://github.com/marketplace/actions/dart-analyze-with-annotations,26
+Invalidate AWS CloudFront,Invalidate CloudFront distribution paths,https://github.com/marketplace/actions/invalidate-aws-cloudfront,26
+File Changes Action,"Creates outputs variables of files modified, added, or removed by a PR or Push",https://github.com/marketplace/actions/file-changes-action,26
+Run tfsec PR commenter,Runs tfsec and adds comments to the PR where checks have failed,https://github.com/marketplace/actions/run-tfsec-pr-commenter,26
+Browser Platform Publisher,Publish your browser extension anywhere using a single action,https://github.com/marketplace/actions/browser-platform-publisher,26
+Remote SSH Commands,Run remote ssh commands,https://github.com/marketplace/actions/remote-ssh-commands,26
+Merge branch,A GitHub Action that manage git merge for any gitflow,https://github.com/marketplace/actions/merge-branch,27
+Nx set SHAs,"Derives SHAs for base and head for use in nx affected commands, optionally setting them as env variables for the current
+job",https://github.com/marketplace/actions/nx-set-shas,27
+Docker Compose Action,This action runs your compose file(s) and clean up before action finished,https://github.com/marketplace/actions/docker-compose-action,27
+Hexo Action,Hexo CI/CD action for automating deployment,https://github.com/marketplace/actions/hexo-action,27
+JaCoCo Report,Publishes the JaCoCo report as a comment in the Pull Request,https://github.com/marketplace/actions/jacoco-report,27
+Code Coverage Report,Comments a pull request with the code coverage,https://github.com/marketplace/actions/code-coverage-report,27
+React Native Android Build APK,This github action automatically builds the android apk under the artifact section,https://github.com/marketplace/actions/react-native-android-build-apk,27
+Figma Action,Export image assets from figma to GitHub,https://github.com/marketplace/actions/figma-action,27
+cuda-toolkit,Installs NVIDIA CUDA Toolkit and adds it to PATH,https://github.com/marketplace/actions/cuda-toolkit,27
+Setup Chrome,Install and setup Google Chrome and Chromium,https://github.com/marketplace/actions/setup-chrome,27
+Frogo-Recycler-View,"Library Easy FrogoRecyclerView Based on RecyclerView, Full and Clear Documentation, Have Empty View :books:",https://github.com/marketplace/actions/frogo-recycler-view,27
+Dependent Issues,Mark issues as dependent on another,https://github.com/marketplace/actions/dependent-issues,27
+Azure Functions Action,Deploy Function App to Azure Functions,https://github.com/marketplace/actions/azure-functions-action,27
+Github Action Merge Dependabot,Automatically approve and merge dependabot PRs,https://github.com/marketplace/actions/github-action-merge-dependabot,27
+awake-action,Keep your free server awake,https://github.com/marketplace/actions/awake-action,27
+Very Good Coverage,Enforce LCOV Coverage Thresholds,https://github.com/marketplace/actions/very-good-coverage,27
+Configure GitHub Pages,"A GitHub Action to enable Pages, extract various metadata about a site, and configure some supported static site
+generators",https://github.com/marketplace/actions/configure-github-pages,27
+terraform-docs-gh-actions,Generate Terraform module documentation in pull requests,https://github.com/marketplace/actions/terraform-docs-gh-actions,27
+ARM runner,Composite action to run commands within a qemu chrooted environment,https://github.com/marketplace/actions/arm-runner,27
+Set up GitHub Actions caching for Turborepo,Sets up Turborepo Remote Caching to work with GitHub Actions’ built-in cache. No Vercel account access tokens needed,https://github.com/marketplace/actions/set-up-github-actions-caching-for-turborepo,27
+PR Compliance Action,Action to check PR compliance on various aspects to improve maintainer QOL.,https://github.com/marketplace/actions/pr-compliance-action,28
+hugo-obsidian,simple GitHub action to parse Markdown Links into a .yaml file for Hugo,https://github.com/marketplace/actions/hugo-obsidian,28
+GitHub Test Reporter,"Build, publish and view test reports on job summaries and pull requests",https://github.com/marketplace/actions/github-test-reporter,28
+Tag/Release on Push Action,Creates a Tag/Release on Push. Generates Release Notes. Customizable with Pull Request Labels,https://github.com/marketplace/actions/tag-release-on-push-action,28
+WoW Packager,Build and publish World of Warcraft AddOns,https://github.com/marketplace/actions/wow-packager,28
+Get Secret Manager secrets,Get secrets from Google Secret Manager and make their results available as output variables,https://github.com/marketplace/actions/get-secret-manager-secrets,28
+Get current package version,Get the current version of the npm package,https://github.com/marketplace/actions/get-current-package-version,28
+Setup AWS SAM CLI,Setup AWS SAM CLI and add it to the PATH,https://github.com/marketplace/actions/setup-aws-sam-cli,28
+Build executables or extension modules from Python projects,"Build a modules or standalone executable from python code using Nuitka on Mac/Linux/Windows. Very wide range of
+compatibility",https://github.com/marketplace/actions/build-executables-or-extension-modules-from-python-projects,28
+The PHP Security Checker,Checks composer.json for known vulnerabilities in your package dependencies,https://github.com/marketplace/actions/the-php-security-checker,28
+Buildah Build,"Build a container image, with or without a Containerfile",https://github.com/marketplace/actions/buildah-build,28
+Setup TFLint,Sets up tflint CLI in your GitHub Actions workflow,https://github.com/marketplace/actions/setup-tflint,28
+AWS Secrets Manager GitHub Action,GitHub action for retrieving secrets from AWS Secrets Manager,https://github.com/marketplace/actions/aws-secrets-manager-github-action,28
+🔂 Surge PR Preview,Preview website in surge.sh for every pull request,https://github.com/marketplace/actions/surge-pr-preview,28
+Todoist Readme,🚧 Updates README with your Todoist stats,https://github.com/marketplace/actions/todoist-readme,28
+Build Rust Projects with Cross,Cross compile your Rust projects with cross (https://github.com/cross-rs/cross).,https://github.com/marketplace/actions/build-rust-projects-with-cross,28
+Setup Zig (legacy),Please use mlugg/setup-zig instead,https://github.com/marketplace/actions/setup-zig-legacy,28
+Gradle Cache,"Caches .gradle folder (dependencies, local build cache, ...)",https://github.com/marketplace/actions/gradle-cache,28
+nbmake,Test notebooks,https://github.com/marketplace/actions/nbmake,28
+Deploy to Vercel Action,Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments,https://github.com/marketplace/actions/deploy-to-vercel-action,28
+HawkEye Action,"Check, format, or remove license headers",https://github.com/marketplace/actions/hawkeye-action,29
+stale-repos,A GitHub Action to identify stale repos within an organization,https://github.com/marketplace/actions/stale-repos,29
+Twilio SMS,Send an SMS from GitHub Actions using Twilio Programmable SMS,https://github.com/marketplace/actions/twilio-sms,29
+misspell-fixer-action,Runs misspell-fixer as a Github Action,https://github.com/marketplace/actions/misspell-fixer-action,29
+SonarQube Scan,"Scan your code with SonarQube Scanner to detect bugs, vulnerabilities and code smells in more than 25 programming
+languages",https://github.com/marketplace/actions/sonarqube-scan,29
+Jest Annotations & Coverage,Jest action adding checks and annotations to your pull requests and comment them with code coverage results,https://github.com/marketplace/actions/jest-annotations-coverage,29
+Create Issue From File,An action to create an issue using content from a file,https://github.com/marketplace/actions/create-issue-from-file,29
+Continuous Benchmarking for Go,"Run Go benchmarks, publish results to an interactive web app, and check for performance regressions in your pull
+requests",https://github.com/marketplace/actions/continuous-benchmarking-for-go,29
+Workflow Webhook Action,A Github workflow action to call a webhook with payload data from the event. Support for JSON or URL encoded endpoints,https://github.com/marketplace/actions/workflow-webhook-action,29
+Merge Schedule,merge pull requests on a scheduled day,https://github.com/marketplace/actions/merge-schedule,29
+Rust Marker Linter,GitHub Action to install and run the Marker linter for Rust 🦀,https://github.com/marketplace/actions/rust-marker-linter,29
+YAML Update Action,Update the property of an existing YAML File,https://github.com/marketplace/actions/yaml-update-action,29
+Helm tool installer,Install a specific version of helm binary. Acceptable values are latest or any semantic version string like 1.15.0,https://github.com/marketplace/actions/helm-tool-installer,29
+Cross Platform Action,Provides cross platform runner,https://github.com/marketplace/actions/cross-platform-action,29
+Generate changelog,"Automatically generate change log from your tags, issues, labels and pull requests on GitHub",https://github.com/marketplace/actions/generate-changelog,29
+AWS ECR,Create Docker images and push into a ECR repository,https://github.com/marketplace/actions/aws-ecr,29
+ROS 2 CI Action,Run ROS 2 package test in CI using Github Actions,https://github.com/marketplace/actions/ros-2-ci-action,29
+Addepar RedFlag,RedFlag leverages AI to determine high-risk code changes. Run it in your CI pipelines to flag PRs and add reviewers,https://github.com/marketplace/actions/addepar-redflag,29
+Mirror a repository using SSH,"Action for mirroring a repository in another location (Bitbucket, GitHub, GitLab, …) using SSH",https://github.com/marketplace/actions/mirror-a-repository-using-ssh,29
+GitHub Labeler,GitHub Action to manage labels on GitHub,https://github.com/marketplace/actions/github-labeler,29
+Setup HashiCorp Packer,A GitHub Action to install a specific version of HashiCorp Packer and add it to PATH,https://github.com/marketplace/actions/setup-hashicorp-packer,30
+Vuepress deploy,A GitHub Action to build and publish Vuepress sites to GitHub Pages,https://github.com/marketplace/actions/vuepress-deploy,30
+repo2docker Action,Creates a docker image of your repository to view the collection of notebooks,https://github.com/marketplace/actions/repo2docker-action,30
+Webhook Action,Send a webhook event to anywhere,https://github.com/marketplace/actions/webhook-action,30
+My GitHub Status,Generate my github status using GitHub Actions,https://github.com/marketplace/actions/my-github-status,30
+cargo-deny,Help manage Cargo crate dependencies and validate licenses,https://github.com/marketplace/actions/cargo-deny,30
+Publish python poetry package,An action to build and publish python package to https://pypi.org/ using poetry https://github.com/sdispater/poetry,https://github.com/marketplace/actions/publish-python-poetry-package,30
+Markdown to PDF and HTML,Creates PDF and HTML files from Markdown using the GitHub (or custom) theme,https://github.com/marketplace/actions/markdown-to-pdf-and-html,30
+docker-ros,docker-ros automatically builds development and deployment Docker images for your ROS-based repositories,https://github.com/marketplace/actions/docker-ros,30
+Autosquash,Automatically update PRs with outdated checks and squash and merge the ones matching all branch protections,https://github.com/marketplace/actions/autosquash,30
+Wait for Vercel Preview,Wait for Vercel Deploy Preview to complete. Requires to be run on pull_request or push,https://github.com/marketplace/actions/wait-for-vercel-preview,30
+laminas/automatic-releases,Automates automatic releases for semver-compliant repositories,https://github.com/marketplace/actions/laminas-automatic-releases,30
+Setup protoc,Download protoc compiler and add it to the PATH,https://github.com/marketplace/actions/setup-protoc,30
+gabrielbb/xvfb-action,Run your headless tests with XVFB,https://github.com/marketplace/actions/gabrielbb-xvfb-action,30
+autofix.ci,Automatically fix formatting/lint issues in pull requests,https://github.com/marketplace/actions/autofix-ci,30
+TryHackMe Badge Workflow,Gets your tryhackme badge and updates it on your README,https://github.com/marketplace/actions/tryhackme-badge-workflow,30
+Get a changelog between two references,Returns the commit difference count between two git references,https://github.com/marketplace/actions/get-a-changelog-between-two-references,30
+GitHub Spellcheck Action,"A Github Action that spell checks Python, Markdown, and Text files using PySpelling",https://github.com/marketplace/actions/github-spellcheck-action,30
+Publish to Chromatic,Publish your Storybook to Chromatic and run visual regression tests,https://github.com/marketplace/actions/publish-to-chromatic,30
+Scala Steward GitHub Action,🤖 A bot that helps you keeping your Scala projects up-to-date,https://github.com/marketplace/actions/scala-steward-github-action,30
+GitHub Spellcheck Action,"A Github Action that spell checks Python, Markdown, and Text files using PySpelling",https://github.com/marketplace/actions/github-spellcheck-action,31
+maturin-action,GitHub Action to install and run a custom maturin command,https://github.com/marketplace/actions/maturin-action,31
+Azure Static Web Apps Deploy,Deploys an application to Azure Static Web Apps,https://github.com/marketplace/actions/azure-static-web-apps-deploy,31
+Find and Replace,Find and replace a string in your project files,https://github.com/marketplace/actions/find-and-replace,31
+Set up Emacs,Install a specific Emacs version for use in your workflow,https://github.com/marketplace/actions/set-up-emacs,31
+Dagger for GitHub,Run dagger commands in Github Actions,https://github.com/marketplace/actions/dagger-for-github,31
+github-action-publish-binaries,Publish binaries when new releases are made,https://github.com/marketplace/actions/github-action-publish-binaries,31
+Repo Lockdown,Immediately close and lock issues and pull requests,https://github.com/marketplace/actions/repo-lockdown,31
+Commitsar Action,Check commit message compliance with conventional commits,https://github.com/marketplace/actions/commitsar-action,31
+Terraform PR Commenter,Adds opinionated comments to a PR from Terraform fmt/init/plan output,https://github.com/marketplace/actions/terraform-pr-commenter,31
+pkgx/setup,Installs pkgx to your GitHub Actions runner.,https://github.com/marketplace/actions/pkgx-setup,31
+Build iOS Action,"Build iOS project (.xcodeproj, .xcworkspace), export .ipa, optional upload to BrowserStack App Live",https://github.com/marketplace/actions/build-ios-action,31
+Kubectl tool installer,Install a specific version of kubectl binary. Acceptable values are latest or any semantic version string like 1.15.0,https://github.com/marketplace/actions/kubectl-tool-installer,31
+Build Godot,Build a Godot project for multiple platforms,https://github.com/marketplace/actions/build-godot,31
+Auto Website to GIF or WebP,Upgrade your README with a fresh file of a web page,https://github.com/marketplace/actions/auto-website-to-gif-or-webp,31
+Cloudflare Purge Cache,Purge a zone s cache via the Cloudflare API,https://github.com/marketplace/actions/cloudflare-purge-cache,31
+cargo-install,GitHub action for cache-efficient Rust crates installation,https://github.com/marketplace/actions/cargo-install,31
+Azure CLI Action,Automate your GitHub workflows using Azure CLI scripts,https://github.com/marketplace/actions/azure-cli-action,31
+Setup MySQL,Setup a MySQL database,https://github.com/marketplace/actions/setup-mysql,31
+clang-format lint,Github Action that check if code is formatted correctly using clang-format,https://github.com/marketplace/actions/clang-format-lint,31
+cosign-installer,Installs cosign and includes it in your path,https://github.com/marketplace/actions/cosign-installer,32
+Recent GitHub Activity - Profile Readme,Add your recent activity to your profile readme,https://github.com/marketplace/actions/recent-github-activity-profile-readme,32
+Changelog CI,"Changelog CI is a GitHub Action that generates changelog, then it is committed and/or commented to the release pull
+request",https://github.com/marketplace/actions/changelog-ci,32
+Pull Request title rules,Github action to enforce Pull Request title conventions,https://github.com/marketplace/actions/pull-request-title-rules,32
+UsePSDevOps,PowerShell Tools for DevOps (including a PowerShell wrapper for the GitHub REST API),https://github.com/marketplace/actions/usepsdevops,32
+Run PIMOD,"Reconfigure Raspberry Pi images with an easy, Docker-like configuration file",https://github.com/marketplace/actions/run-pimod,32
+Kuberentes (k8s) cli - kubectl,GitHub Action for interacting with kubectl (k8s),https://github.com/marketplace/actions/kuberentes-k8s-cli-kubectl,32
+Setup Vim,Setup Vim or Neovim text editors on GitHub Actions,https://github.com/marketplace/actions/setup-vim,32
+Changelog Updater,Automatically update a CHANGELOG with the latest release notes,https://github.com/marketplace/actions/changelog-updater,32
+Golang Action,Run Golang commands,https://github.com/marketplace/actions/golang-action,32
+Android App size difference,Compares the size of 2 APKs,https://github.com/marketplace/actions/android-app-size-difference,32
+Please Star First,Automatically closes issues opened by non-stargazers,https://github.com/marketplace/actions/please-star-first,32
+Yarn Lock Changes,Creates a comment inside Pull Request with the human-readable summary of the changes to the yarn.lock file,https://github.com/marketplace/actions/yarn-lock-changes,32
+go-test-coverage,go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold,https://github.com/marketplace/actions/go-test-coverage,32
+Git Version,Semver versioning based on the git history and commit messages of your repository,https://github.com/marketplace/actions/git-version,32
+Upload Episode from YouTube To Anchor.Fm,An automation tool to publish your podcast from youtube to anchor.fm,https://github.com/marketplace/actions/upload-episode-from-youtube-to-anchor-fm,32
+git-cliff - Changelog Generator,Generate changelog based on your Git history,https://github.com/marketplace/actions/git-cliff-changelog-generator,32
+Organization workflow action,Action to register organization workflow,https://github.com/marketplace/actions/organization-workflow-action,32
+Slatify,Slack Notification Action,https://github.com/marketplace/actions/slatify,32
+sh-checker,"Run shellcheck and/or shfmt on all shell script files and include commentaries, there is a exclude parameter",https://github.com/marketplace/actions/sh-checker,32
+slither-action,"Runs Slither, the Solidity static analyzer",https://github.com/marketplace/actions/slither-action,33
+DeadFinder Action,Find dead-links (broken links),https://github.com/marketplace/actions/deadfinder-action,33
+ghascompliance,ghascompliance,https://github.com/marketplace/actions/ghascompliance,33
+Deploy Shopify theme,Deploy Shopify theme with Theme Kit,https://github.com/marketplace/actions/deploy-shopify-theme,33
+Docker Deployment,A GitHub Action that supports docker-compose and Docker Swarm deployments,https://github.com/marketplace/actions/docker-deployment,33
+Markup Link Checker (mlc),Check links in markup files,https://github.com/marketplace/actions/markup-link-checker-mlc,33
+Changelog from Conventional Commits,Generate and update the CHANGELOG from conventional commits since latest tag or from a given tag range,https://github.com/marketplace/actions/changelog-from-conventional-commits,33
+Getnighthawk Layer5,Publish getnighthawk assets,https://github.com/marketplace/actions/getnighthawk-layer5,33
+Java Maven release,Release your Java application and publish artifacts,https://github.com/marketplace/actions/java-maven-release,33
+Auto Request Review,Automatically requests review of a pull request based on files changes and/or groups the author belongs to 🤖,https://github.com/marketplace/actions/auto-request-review,33
+Deliverybot Helm Action,Deploys a helm chart,https://github.com/marketplace/actions/deliverybot-helm-action,33
+Newman Action,Run Postman collections via Newman,https://github.com/marketplace/actions/newman-action,33
+Actions Tagger,Keep your action versions up-to-date by automatically promoting a major version each time a minor release is created,https://github.com/marketplace/actions/actions-tagger,33
+Supabase CLI Action,"Setup Supabase CLI, supabase, on GitHub Actions runners",https://github.com/marketplace/actions/supabase-cli-action,33
+Ccache for gh actions,A GitHub Action that speeds up compiling for C/C++ projects using ccache,https://github.com/marketplace/actions/ccache-for-gh-actions,33
+Capistrano deploy,Deploy an application using capistrano to the given target,https://github.com/marketplace/actions/capistrano-deploy,33
+Gemini AI Code Reviewer,This GitHub Action automatically reviews PRs using Google s Gemini AI model,https://github.com/marketplace/actions/gemini-ai-code-reviewer,33
+Setup Typst,A cross-OS action for installing Typst,https://github.com/marketplace/actions/setup-typst,33
+Nested GitHub Runners Action,Creates Nested GitHub Runners in a Workflow,https://github.com/marketplace/actions/nested-github-runners-action,33
+spotify-box,GitHub Action for Update a gist to contain your weekly top tracks on Spotify,https://github.com/marketplace/actions/spotify-box,33
+Setup PostgreSQL,Setup a PostgreSQL database,https://github.com/marketplace/actions/setup-postgresql,34
+Build Android App,"Build Android (gradle), export .apk or .aab, optional upload to Play Store, optional upload to BrowserStack App Live",https://github.com/marketplace/actions/build-android-app,34
+Sccache Action,Setup sccache action,https://github.com/marketplace/actions/sccache-action,34
+alls-green,"GitHub Action for checking that the test matrix jobs are all successful before proceeding. To be used in branch
+protection",https://github.com/marketplace/actions/alls-green,34
+GitHub GraphQL API Query,Send queries to GitHub s GraphQL API,https://github.com/marketplace/actions/github-graphql-api-query,34
+GitHub Dependents Info,Generates a markdown file with all repositories that have dependencies with the current GitHub repository package (s),https://github.com/marketplace/actions/github-dependents-info,34
+TurboRepo with github artifacts,Setup up a local cache proxy server for TurboRepo,https://github.com/marketplace/actions/turborepo-with-github-artifacts,34
+Pensar scan,Scan for and automatically fix security vulnerabilities in your codebase,https://github.com/marketplace/actions/pensar-scan,34
+AoC-badges,Updates the badges of your Readme to show your current Advent of Code stats,https://github.com/marketplace/actions/aoc-badges,34
+buildcache-action,GitHub Action that installs and configures buildcache to accelerate compilation,https://github.com/marketplace/actions/buildcache-action,34
+Cleanowners action,A GitHub Action to suggest removal of non-organization members from CODEOWNERS files,https://github.com/marketplace/actions/cleanowners-action,34
+docker-image-size-limit,Runs docker-image-size-limit as a Github Action,https://github.com/marketplace/actions/docker-image-size-limit,34
+Deploy WordPress,Deploy WordPress code to a server,https://github.com/marketplace/actions/deploy-wordpress,34
+Kaniko builder,Build and push docker images using Kaniko,https://github.com/marketplace/actions/kaniko-builder,34
+WordPress Plugin Readme/Assets Update,Deploy readme and asset updates to the WordPress Plugin Repository,https://github.com/marketplace/actions/wordpress-plugin-readme-assets-update,34
+Assignee to reviewer,Automatically create review requests based on assignees,https://github.com/marketplace/actions/github-action-for-assignee-to-reviewer,34
+Push new files back to master.,A GitHub Action to push any new files back to master,https://github.com/marketplace/actions/push-new-files-back-to-master,34
+Wait For Check,Wait for another GitHub check to complete,https://github.com/marketplace/actions/wait-for-check,34
+Actions Ecosystem Add Labels,Add labels to an issue or a pull request,https://github.com/marketplace/actions/actions-ecosystem-add-labels,34
+PortfolioFy,Creates an webpage which can be deployed as Github page,https://github.com/marketplace/actions/portfoliofy,34
+combine-prs,Combine multiple PRs into a single PR,https://github.com/marketplace/actions/combine-prs,35
+WIP,DO NOT MERGE – as an action,https://github.com/marketplace/actions/wip,35
+Get Current Pull Request,Get the PR associated with the current commit,https://github.com/marketplace/actions/get-current-pull-request,35
+File Existence,GitHub Action to check for file existence,https://github.com/marketplace/actions/file-existence,35
+Allure Report with history,Generate Allure Report with history,https://github.com/marketplace/actions/allure-report-with-history,35
+jekyll-deploy-gh-pages,Deploying your Jekyll repo back to the gh-pages branch of the same repository,https://github.com/marketplace/actions/jekyll-deploy-gh-pages,35
+PR Lint GitHub Action,PR Lint for GitHub Actions,https://github.com/marketplace/actions/pr-lint-github-action,35
+rsync deployments,Quick and simple method of deploying code to a webserver via rsync over ssh,https://github.com/marketplace/actions/rsync-deployments,35
+Setup FFmpeg,"Download, cache and add to PATH ffmpeg and ffprobe binaries",https://github.com/marketplace/actions/setup-ffmpeg,35
+Setup Zig Compiler,"Download and install the Zig compiler, and cache the global Zig cache",https://github.com/marketplace/actions/setup-zig-compiler,35
+Pull Request Analytics,"Provides informative reports on team and developer metrics, based on data from pull requests and code reviews",https://github.com/marketplace/actions/pull-request-analytics,35
+Release notes generator,This Github action strong automatically creates a release notes /strong when a milestone is closed,https://github.com/marketplace/actions/release-notes-generator,35
+Gruntwork Terragrunt,Setup and execute Terragrunt,https://github.com/marketplace/actions/gruntwork-terragrunt,35
+DigitalOcean App Platform deployment,Deploy application to DigitalOcean s App Platform or Update DOCR image in the DigitalOcean s App Platform,https://github.com/marketplace/actions/digitalocean-app-platform-deployment,35
+Public IP,Queries the runner s public IP address,https://github.com/marketplace/actions/public-ip,35
+setup-chromedriver,Setup chromedriver,https://github.com/marketplace/actions/setup-chromedriver,35
+Ballerina Action,An action to run ballerina CLI commands,https://github.com/marketplace/actions/ballerina-action,35
+Fetch Github Release Asset,Downloads an asset from a Github release,https://github.com/marketplace/actions/fetch-github-release-asset,35
+Fetch API Data,"This action will handle authenticated API requests, allowing you to save the data from the request into your workspace",https://github.com/marketplace/actions/fetch-api-data,35
+Run rubocop with reviewdog,🐶 Run rubocop with reviewdog on pull requests to improve code review experience,https://github.com/marketplace/actions/run-rubocop-with-reviewdog,35
+Python Coverage,Publish coverage report to a PR enforce coverage on new modified files,https://github.com/marketplace/actions/python-coverage,36
+wakatime-sync,Back up your wakatime sync to your gist,https://github.com/marketplace/actions/wakatime-sync,36
+CredSweeper action,CredSweeper checks files,https://github.com/marketplace/actions/credsweeper-action,36
+security-devops-action,Run security analyzers,https://github.com/marketplace/actions/security-devops-action,36
+Publish AUR package,Publish an AUR package,https://github.com/marketplace/actions/publish-aur-package,36
+arduino/setup-task,Download Task and add it to the PATH,https://github.com/marketplace/actions/arduino-setup-task,36
+PHPUnit (php-actions),Run your PHPUnit tests in your Github Actions,https://github.com/marketplace/actions/phpunit-php-actions,36
+PR Title Checker,Checks if the PR Title follows contribution guidelines,https://github.com/marketplace/actions/pr-title-checker,36
+rdme 🦉 Sync to ReadMe,"Sync OpenAPI/Swagger (OAS) definitions and Markdown documentation from your GitHub repository to your ReadMe developer
+hub",https://github.com/marketplace/actions/rdme-sync-to-readme,36
+Enable Pull Request Automerge,A GitHub action to enable auto-merge on a pull request,https://github.com/marketplace/actions/enable-pull-request-automerge,36
+dotnet-tests-report,Executes .NET (dotnet) tests within a GitHub Workflow and produces Tests Report.,https://github.com/marketplace/actions/dotnet-tests-report,36
+Mirror to GitLab and run GitLab CI,"Automate mirroring of git commits to GitLab, trigger GitLab CI and post results back to GitHub",https://github.com/marketplace/actions/mirror-to-gitlab-and-run-gitlab-ci,36
+Butler Push,Publish releases to Itch.io using Butler,https://github.com/marketplace/actions/butler-push,36
+Setup Alpine Linux environment,Set up a chroot-based Alpine Linux environment and optionally QEMU user emulator for non-x86 architectures.,https://github.com/marketplace/actions/setup-alpine-linux-environment,36
+Contributors Action,A GitHub Action to report out contributors and contributions to a repository or organization,https://github.com/marketplace/actions/contributors-action,36
+Setup WSL,WSL Setup GitHub Action,https://github.com/marketplace/actions/setup-wsl,36
+rich-codex,Create rich code images for your docs,https://github.com/marketplace/actions/rich-codex,36
+notfoundbot,Find and fix outgoing links,https://github.com/marketplace/actions/notfoundbot,36
+maven-settings-action,Prepare maven settings.xml,https://github.com/marketplace/actions/maven-settings-action,36
+action-zip,This GitHub action exposes the zip command for use in building/archiving,https://github.com/marketplace/actions/action-zip,36
+Semantic Release Action,"Runs semantic-release. Respects .releaserc.js in your repo. Exports version variables for you to use in subsequent
+actions",https://github.com/marketplace/actions/semantic-release-action,37
+maven-settings-action,Prepare maven settings.xml,https://github.com/marketplace/actions/maven-settings-action,37
+Label Actions,"Perform actions when issues, pull requests or discussions are labeled or unlabeled",https://github.com/marketplace/actions/label-actions,37
+Terraform security scan,Scan your terraform code with tfsec,https://github.com/marketplace/actions/terraform-security-scan,37
+bumpgen,handle breaking changes from dependency upgrades,https://github.com/marketplace/actions/bumpgen,37
+Frogo-Keyboard-Open-Source,Full and Clear Documentation,https://github.com/marketplace/actions/frogo-keyboard-open-source,37
+Azure Container Registry Login,Log in to Azure Container Registry (ACR) or any private container registry,https://github.com/marketplace/actions/azure-container-registry-login,37
+Install LLVM and Clang,Downloads and installs LLVM and Clang binaries,https://github.com/marketplace/actions/install-llvm-and-clang,37
+Eleventy Action,Build your Eleventy-based static website,https://github.com/marketplace/actions/eleventy-action,37
+cls3-action,Run cls3 in GitHub Actions,https://github.com/marketplace/actions/cls3-action,37
+golang-govulncheck-action,Run govulncheck,https://github.com/marketplace/actions/golang-govulncheck-action,37
+ftp-action,Automate copying your files via FTP using this GitHub action,https://github.com/marketplace/actions/ftp-action,37
+Discord Message Notify,Sending a Discord message,https://github.com/marketplace/actions/discord-message-notify,37
+markdownlint-cli2-action,A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library,https://github.com/marketplace/actions/markdownlint-cli2-action,37
+Generate Plantuml,Generate uml diagrams with Plantuml Server and push them to your repository,https://github.com/marketplace/actions/generate-plantuml,37
+clang-format Check,Use clang-format to see if your C/C++/Protobuf code is formatted according to project guidelines,https://github.com/marketplace/actions/clang-format-check,37
+reviewdog-suggester: Suggest any code changes based on diff with reviewdog,🐶 Suggest any code changes based on diff through GitHub Multi-line code suggestions,https://github.com/marketplace/actions/reviewdog-suggester-suggest-any-code-changes-based-on-diff-with-reviewdog,37
+command-action,IssueOps commands in GitHub Actions,https://github.com/marketplace/actions/command-action,37
+ActionServerless,Use GitHub Actions to create a serverless service,https://github.com/marketplace/actions/actionserverless,37
+Nissuer,A GitHub Action for tried and tired maintainers,https://github.com/marketplace/actions/nissuer,37
+Helm Publisher,A GitHub Action for publishing Helm charts with Github Pages,https://github.com/marketplace/actions/helm-publisher,38
+Actions Ecosystem Action Regex Match,Match a input text with a input regex,https://github.com/marketplace/actions/actions-ecosystem-action-regex-match,38
+Run tflint with reviewdog,🐶 Run tflint with reviewdog on pull requests to enforce best practices,https://github.com/marketplace/actions/run-tflint-with-reviewdog,38
+"Build, Push and Release a Docker container to Heroku.","Build, Push and Release a Docker container to Heroku",https://github.com/marketplace/actions/build-push-and-release-a-docker-container-to-heroku,38
+Azure SQL Deploy,"Deploy a database project, DACPAC, or a SQL script to Azure SQL database",https://github.com/marketplace/actions/azure-sql-deploy,38
+Doxygen Action,Generate documentation on a commented project using doxygen,https://github.com/marketplace/actions/doxygen-action,38
+setup-micromamba,Install the micromamba package manager,https://github.com/marketplace/actions/setup-micromamba,38
+Get GKE Credentials,"Use this action to authenticate to a GKE cluster by generating an emphemeral kubeconfig to use with kubectl, helm etc",https://github.com/marketplace/actions/get-gke-credentials,38
+retry action,Retries an Github Action step on failure,https://github.com/marketplace/actions/retry-action,38
+Google Java Format,Automatically format Java files using Google Java Style,https://github.com/marketplace/actions/google-java-format,38
+jacoco-badge-generator,JaCoCo coverage badges and pull request coverage checks in GitHub Actions,https://github.com/marketplace/actions/jacoco-badge-generator,38
+Nix Quick Install,Quickly installs Nix in unprivileged single-user mode,https://github.com/marketplace/actions/nix-quick-install,38
+committed-action,Run committed to check commit history,https://github.com/marketplace/actions/committed-action,38
+Setup Nim environment,Setup a Nim environment and add it to the PATH,https://github.com/marketplace/actions/setup-nim-environment,38
+Chrome extension upload action,upload publish extensions to the Chrome Web Store,https://github.com/marketplace/actions/chrome-extension-upload-action,38
+Setup Emscripten toolchain,Download emsdk and optionally install a version of Emscripten,https://github.com/marketplace/actions/setup-emscripten-toolchain,38
+Sync branches,"GitHub Action to, upon successful merge, open a pull request to sync the updated branch back to one or more other
+branches",https://github.com/marketplace/actions/sync-branches,38
+rust-grcov,Collect and aggregate code coverage information with the Mozilla grcov tool,https://github.com/marketplace/actions/rust-grcov,38
+Auto Author Assign,Assign author to pull requests when the pull requests are opened,https://github.com/marketplace/actions/auto-author-assign,38
+get-cmake,"Installs CMake and Ninja, and caches them on cloud based GitHub cache, and/or on the local GitHub runner cache",https://github.com/marketplace/actions/get-cmake,38
+Run Lighthouse CI on Shopify theme,Run Lighthouse CI on Shopify themes directly from GitHub,https://github.com/marketplace/actions/run-lighthouse-ci-on-shopify-theme,39
+Docker Cache,Cache Docker images whether built or pulled,https://github.com/marketplace/actions/docker-cache,39
+Copybara Action 2,Transform and move code between repositories. Start with ZERO config and 100% customizable,https://github.com/marketplace/actions/copybara-action-2,39
+Monorepo Split,Split monorepo packages to many repositories,https://github.com/marketplace/actions/monorepo-split,39
+Copycat Action,GitHub Action for copying files to other repositories,https://github.com/marketplace/actions/copycat-action,39
+UseIrregular,Regular Expressions Made Strangle Simple,https://github.com/marketplace/actions/useirregular,39
+Netlify Deploy,Netlify Deploy,https://github.com/marketplace/actions/netlify-deploy,39
+MZAP Env,Multiple target ZAP Scanning,https://github.com/marketplace/actions/mzap-env,39
+actions-k3s,Start k3s cluster and run kubectl commands,https://github.com/marketplace/actions/actions-k3s,39
+mirror-repository,"Automate mirroring of git commits to or from a remote repository, like GitLab, Bitbucket, or another GitHub repository",https://github.com/marketplace/actions/mirror-repository,39
+Set up a Rust toolchain,Install a specific Rust toolchain and add it to the PATH,https://github.com/marketplace/actions/set-up-a-rust-toolchain,39
+Purge artifacts,Automatically delete artifacts,https://github.com/marketplace/actions/purge-artifacts,39
+Require Labels,Require labels to be added to a pull request before merging,https://github.com/marketplace/actions/require-labels,39
+Shakedown Smoke Tester,Simple smoke test framework for http applications,https://github.com/marketplace/actions/shakedown-smoke-tester,39
+PHPCS Code Review,This will run phpcs on PRs,https://github.com/marketplace/actions/phpcs-code-review,39
+Magento 2 actions,Test Build Deploy M2 projects,https://github.com/marketplace/actions/magento-2-actions,39
+Tencent CloudBase Github Action,云开发 Github Action 可以支持将你的项目一键部署到云开发环境,https://github.com/marketplace/actions/tencent-cloudbase-github-action,39
+Setup Rust and Cargo,"Sets up Rust by installing a toolchain/components/targets with rustup, and also Cargo by installing bins and caching
+core",https://github.com/marketplace/actions/setup-rust-and-cargo,39
+Redis Server in GitHub Actions,Start a Redis server,https://github.com/marketplace/actions/redis-server-in-github-actions,39
+OpenTelemetry Export Trace,Exports Workflow Run Telemetry Trace over OLTP,https://github.com/marketplace/actions/opentelemetry-export-trace,39
+Run shellcheck with reviewdog,🐶 Run shellcheck with reviewdog on pull requests to improve code review experience,https://github.com/marketplace/actions/run-shellcheck-with-reviewdog,40
+Version Check,An action that allows you to check whether your npm package version has been updated,https://github.com/marketplace/actions/version-check,40
+Build Flipper Application Package (.fap),"Provides a composite action to install ufbt, build and lint applications for Flipper Zero.",https://github.com/marketplace/actions/build-flipper-application-package-fap,40
+Setup just,Install the just command runner,https://github.com/marketplace/actions/setup-just,40
+Set Timezone,Sets timezone in your locale,https://github.com/marketplace/actions/set-timezone,40
+Push To Registry,Push a container image to an image registry,https://github.com/marketplace/actions/push-to-registry,40
+Automatic Revert,Automatically revert a commit on /revert comment,https://github.com/marketplace/actions/automatic-revert,40
+Puppeteer Headful,"A GitHub Action / Docker image for Puppeteer, the Headful Chrome Node API so you can test Chrome extensions",https://github.com/marketplace/actions/puppeteer-headful,40
+Setup Ballerina Language,Install Ballerina bal command,https://github.com/marketplace/actions/setup-ballerina-language,40
+Issue Bot Action,Automate your manual tasks with an issue bot,https://github.com/marketplace/actions/issue-bot-action,40
+action-maven-publish,GitHub Action for automatically publishing Maven packages,https://github.com/marketplace/actions/action-maven-publish,40
+Cached LFS checkout,Git checkout with LFS files from cache,https://github.com/marketplace/actions/cached-lfs-checkout,40
+kicad render pcb,"Render KiCad PCBs top, bottom optionally render and gif or mp4 of the PCB rotating",https://github.com/marketplace/actions/kicad-render-pcb,40
+Wait for commit statuses,Wait for commit statuses to be either successful or failed,https://github.com/marketplace/actions/wait-for-commit-statuses,40
+ESLint Annotate from Report JSON,Annotates pull request diffs with warnings and errors from an ESLint report JSON file,https://github.com/marketplace/actions/eslint-annotate-from-report-json,40
+Fontship,A font development toolkit and collaborative work flow,https://github.com/marketplace/actions/fontship,40
+SYSU Health Report,Automatic health report for SYSU,https://github.com/marketplace/actions/sysu-health-report,40
+Xcodebuild Action,Runs xcodebuild e.g. to run tests,https://github.com/marketplace/actions/xcodebuild-action,40
+Dotenv Action,Load variables from .env file,https://github.com/marketplace/actions/dotenv-action,40
+Homebrew bump formula,Bump (update) a Homebrew formula on new project release,https://github.com/marketplace/actions/homebrew-bump-formula,40
+Merge Gatekeeper,Get better merge control,https://github.com/marketplace/actions/merge-gatekeeper,41
+Setup Godot Action,"Setup Godot for headless use with macOS, Windows, and Linux CI/CD runners",https://github.com/marketplace/actions/setup-godot-action,41
+GS Commit Message Checker,Check the commit message against a regex pattern,https://github.com/marketplace/actions/gs-commit-message-checker,41
+setup-minikube,test your app against real Kubernetes,https://github.com/marketplace/actions/setup-minikube,41
+arm-none-eabi-gcc GNU Arm Embedded Toolchain,Install and set up the arm-none-eabi-gcc Arm compiler,https://github.com/marketplace/actions/arm-none-eabi-gcc-gnu-arm-embedded-toolchain,41
+Docker Scout,List vulnerabilities in images; find better base images and upload an image SBOM to Docker Scout,https://github.com/marketplace/actions/docker-scout,41
+Monorepo PR Repo Labeler,Monorepo PR Repo Labeler,https://github.com/marketplace/actions/monorepo-pr-repo-labeler,41
+RuboCop Linter Action,A GitHub Action that lints your Ruby or Ruby on Rails code with RuboCop,https://github.com/marketplace/actions/rubocop-linter-action,41
+OSKAR-phpstan,Use PHPStan via GithubAction,https://github.com/marketplace/actions/oskar-phpstan,41
+SLSA Build Provenance Action (Demo),A POC Demo Action to generate SLSA build provenance for an artifact,https://github.com/marketplace/actions/slsa-build-provenance-action-demo,41
+coherent-swift,Measures cohesion in your Swift codebase,https://github.com/marketplace/actions/coherent-swift,41
+C/C++ Linter,"Linting C/C++ code with clang-tidy or clang-format to give feedback as comments, PR reviews, and more",https://github.com/marketplace/actions/c-c-linter,41
+YAML Lint,Validate YAML syntax,https://github.com/marketplace/actions/yaml-lint,41
+Jira Login,Log in to Jira Cloud instance,https://github.com/marketplace/actions/jira-login,41
+Changelog Reader,Read and parse the CHANGELOG file of the project,https://github.com/marketplace/actions/changelog-reader,41
+Translate Readme Action,Translate the Readme to another language,https://github.com/marketplace/actions/translate-readme-action,41
+wiki-page-creator-action,Action to create a GitHub wiki page based on provided Markdown file,https://github.com/marketplace/actions/wiki-page-creator-action,41
+@volta-cli/action,Setup a Node.js environment with Volta,https://github.com/marketplace/actions/volta-cli-action,41
+@dailydotdev/devcard,GitHub Action to download the devcard from daily.dev,https://github.com/marketplace/actions/dailydotdev-devcard,41
+Export all secrets to env variables,Utility action that exports all github secrets to environment variables,https://github.com/marketplace/actions/export-all-secrets-to-env-variables,41
+Microsoft Teams Deploy Card,"Notify your Teams channel with a beautiful, comprehensive deployment card",https://github.com/marketplace/actions/microsoft-teams-deploy-card,42
+Github Action with TeXLive,Run arbitrary commands in a TeXLive environment,https://github.com/marketplace/actions/github-action-with-texlive,42
+Julia TagBot,Creates GitHub releases for your registered Julia packages,https://github.com/marketplace/actions/julia-tagbot,42
+Setup Julia environment,Setup a Julia environment and add it to the PATH,https://github.com/marketplace/actions/setup-julia-environment,42
+My Awesome list,Generate awesome list from user starred repositories,https://github.com/marketplace/actions/my-awesome-list,42
+Commit Comment,Create a comment for a commit on GitHub,https://github.com/marketplace/actions/commit-comment,42
+cargo-bloat,Track rust bloat across builds,https://github.com/marketplace/actions/cargo-bloat,42
+OpenVPN-Connect,connect to OpenVPN server,https://github.com/marketplace/actions/openvpn-connect,42
+ruff-action,"A GitHub Action to run Ruff, an extremely fast Python linter and code formatter",https://github.com/marketplace/actions/ruff-action,42
+setup-docker,Set up your GitHub Actions workflow with a specific version of Docker,https://github.com/marketplace/actions/setup-docker,42
+Build and Tag,Properly tags your GitHub Action,https://github.com/marketplace/actions/build-and-tag,42
+Push to Status Check-Protected Branches,Push local workflow commit(s) to protected branches with required status checks,https://github.com/marketplace/actions/push-to-status-check-protected-branches,42
+GitHub Commit & Push,Push changes made by actions right back into the current repository,https://github.com/marketplace/actions/github-commit-push,42
+PR label by Files,Label a Pull Request based on pushed files,https://github.com/marketplace/actions/pr-label-by-files,42
+Go Release Binary,Automate publishing Go build artifacts for GitHub releases,https://github.com/marketplace/actions/go-release-binary,42
+Run Jest,Run Jest on JavaScript files,https://github.com/marketplace/actions/run-jest,42
+Check storage layout,Easily compare storage layout reports generated by foundry,https://github.com/marketplace/actions/check-storage-layout,42
+kubectl-aws-eks,This action provides kubectl for Github Actions,https://github.com/marketplace/actions/kubectl-aws-eks,42
+Cimon by Cycode,Runtime Security Solution for your CI/CD Pipeline,https://github.com/marketplace/actions/cimon-by-cycode,42
+Terraform Plan Comment,Post the output of terraform plan to a pull request comment,https://github.com/marketplace/actions/terraform-plan-comment,42
+jenny-blog,blog with jenny,https://github.com/marketplace/actions/jenny-blog,43
+FrogoAdmob,Admob Helper for your android apps,https://github.com/marketplace/actions/frogoadmob,43
+Run CustoPiZer,Runs the CustoPiZer tool,https://github.com/marketplace/actions/run-custopizer,43
+Spectral Linting,Lint your files with Spectral,https://github.com/marketplace/actions/spectral-linting,43
+supabase-embeddings-generator,Generate embeddings from your Knowledge Base to use with Supabase Vector,https://github.com/marketplace/actions/supabase-embeddings-generator,43
+Run misspell with reviewdog,🐶 Run misspell with reviewdog on pull requests to improve code review experience,https://github.com/marketplace/actions/run-misspell-with-reviewdog,43
+Read file,Read file contents,https://github.com/marketplace/actions/read-file,43
+Puppeteer Container,"A GitHub Action / Docker image for Puppeteer, the Headless Chrome Node API",https://github.com/marketplace/actions/puppeteer-container,43
+Python wheels manylinux build,Build manylinux wheels for a (Cython) Python package,https://github.com/marketplace/actions/python-wheels-manylinux-build,43
+prow-github-actions,Prow inspired github CI/CD actions,https://github.com/marketplace/actions/prow-github-actions,43
+OpenTofu - Setup Tofu,Sets up OpenTofu CLI in your GitHub Actions workflow,https://github.com/marketplace/actions/opentofu-setup-tofu,43
+BuildPipeScript,Builds code using PipeScript,https://github.com/marketplace/actions/buildpipescript,43
+Assign size label,Assign labels based on pull request change sizes,https://github.com/marketplace/actions/assign-size-label,43
+GitHub Actions Version Updater,"GitHub Actions Version Updater updates GitHub Action versions in a repository and creates a pull request with the
+changes",https://github.com/marketplace/actions/github-actions-version-updater,43
+release extension,Generate a release for a precompiled gh extension,https://github.com/marketplace/actions/release-extension,43
+Bring Your Own Badge,BYOB - Custom badges based off of GitHub Actions,https://github.com/marketplace/actions/bring-your-own-badge,43
+Deploy Ansible Galaxy Collection,Builds and deploys a Collection to Ansible Galaxy,https://github.com/marketplace/actions/deploy-ansible-galaxy-collection,43
+Pull Request Comment Branch,Gets the head ref and sha of a pull request comment,https://github.com/marketplace/actions/pull-request-comment-branch,43
+Create Branch,Creates a branch,https://github.com/marketplace/actions/create-branch,43
+Build Jekyll for GitHub Pages,A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages,https://github.com/marketplace/actions/build-jekyll-for-github-pages,43
+Laravel Pint,Laravel Pint is an opinionated PHP code style fixer for minimalists,https://github.com/marketplace/actions/laravel-pint,44
+Gigalixir Action,Deploy to Gigalixir,https://github.com/marketplace/actions/gigalixir-action,44
+SkyWalking Event Reporter,Report GitHub workflow events to Apache SkyWalking,https://github.com/marketplace/actions/skywalking-event-reporter,44
+Python Code Quality and Lint,"Supports Pylint, pycodestyle, Flake8, black, mypy and isort",https://github.com/marketplace/actions/python-code-quality-and-lint,44
+Yarn install cache,1-liner yarn install cache for GitHub Actions,https://github.com/marketplace/actions/yarn-install-cache,44
+clang-tidy review,Create a pull request review based on warnings from clang-tidy,https://github.com/marketplace/actions/clang-tidy-review,44
+Setup Poetry,Set up your GitHub Actions workflow with a specific version of Poetry,https://github.com/marketplace/actions/setup-poetry,44
+pkg-size-action,Report npm package size on pull-requests,https://github.com/marketplace/actions/pkg-size-action,44
+GitHub Action for vsce,Wraps the vsce CLI to be used in GitHub Actions,https://github.com/marketplace/actions/github-action-for-vsce,44
+bumpr - Bump version when merging Pull Request with specific labels,"Bump version when merging Pull Request with specific labels (bump:major,bump:minor,bump:patch)",https://github.com/marketplace/actions/bumpr-bump-version-when-merging-pull-request-with-specific-labels,44
+Deploy Docker to AWS (EC2),Deploy a Docker app to an AWS Virtual Machine (EC2) with Docker Compose,https://github.com/marketplace/actions/deploy-docker-to-aws-ec2,44
+Workflow run cleanup action,Cancel previous runs of a workflow,https://github.com/marketplace/actions/workflow-run-cleanup-action,44
+Surefire Report,"Report Surefire test results as annotations on Github Pull Request [junit, failsafe]",https://github.com/marketplace/actions/surefire-report,44
+rust-tarpaulin,Gather Rust code coverage information with Tarpaulin,https://github.com/marketplace/actions/rust-tarpaulin,44
+Staticcheck,Run Staticcheck on your Go code,https://github.com/marketplace/actions/staticcheck,44
+Feed to Bluesky,Push ATOM/RSS feed updates to Bluesky via GitHub Actions,https://github.com/marketplace/actions/feed-to-bluesky,44
+Python Coverage Comment,"Publish diff coverage report as PR comment, and create a coverage badge to display on the readme.",https://github.com/marketplace/actions/python-coverage-comment,44
+Trigger Jenkins Multiple Jobs,Triggering Jenkins Job through the API,https://github.com/marketplace/actions/trigger-jenkins-multiple-jobs,44
+Trigger Jenkins Job,Triggering Jenkins Job through the API,https://github.com/marketplace/actions/trigger-jenkins-job,44
+Kubernetes Set Context,Set the context of a target Kubernetes cluster and export the kubeconfig which is used by subsequent actions,https://github.com/marketplace/actions/kubernetes-set-context,44
+setup-git-credentials,Allow cloning private repositories,https://github.com/marketplace/actions/setup-git-credentials,45
+ZEIT Now Deployment,This action make a deployment with github actions instead of ZEIT Now builder,https://github.com/marketplace/actions/zeit-now-deployment,45
+Django Security Check,Helps find and remediate common security vulnerabilities in your Django application,https://github.com/marketplace/actions/django-security-check,45
+Notion x GitHub Action,Sync GitHub issues to a Notion database,https://github.com/marketplace/actions/notion-x-github-action,45
+Orbit Deploy,Deploy an Orbit application,https://github.com/marketplace/actions/orbit-deploy,45
+Create Blog from Markdown Files,This action allows you to create a blog from your markdown files and deploy to GitHub pages,https://github.com/marketplace/actions/create-blog-from-markdown-files,45
+Get tag name,Gets current tag name and puts it into an environment variable GIT_TAG_NAME,https://github.com/marketplace/actions/get-tag-name,45
+Setup ROS environment,Install system dependencies required to build ROS and ROS 2 packages,https://github.com/marketplace/actions/setup-ros-environment,45
+Setup Perl environment,Setup a Perl environment and add it to the PATH,https://github.com/marketplace/actions/setup-perl-environment,45
+Setup Git user,Sets the Git user and email to enable committing,https://github.com/marketplace/actions/setup-git-user,45
+tfmermaid,Convert an output of Terraform graph to Mermaid s syntax,https://github.com/marketplace/actions/tfmermaid,45
+Dokku Deploy action,Deploy to a dokku instance using Github actions,https://github.com/marketplace/actions/dokku-deploy-action,45
+Semver Release,Automatically create Semver compliant tags or releases based on PR labels,https://github.com/marketplace/actions/semver-release,45
+Sync Tailscale ACLs,Push changes to Tailscale and run ACL tests in CI,https://github.com/marketplace/actions/sync-tailscale-acls,45
+Run ESLint,Run ESLint on JavaScript files,https://github.com/marketplace/actions/run-eslint,45
+Get Changed Files,Saves lists of changed files as JSON for use by other actions,https://github.com/marketplace/actions/get-changed-files,45
+project beta automations,GitHub ProjectV2/Project-Beta automation. It supports management of status and custom fields,https://github.com/marketplace/actions/project-beta-automations,45
+Easy Zip Files,Action for zipping files and folders easily,https://github.com/marketplace/actions/easy-zip-files,45
+Setup PDM,Set up a specific version of PDM and uses a given Python version to work on,https://github.com/marketplace/actions/setup-pdm,45
+GitHub Issue Parser,Use this action to convert issues into a unified JSON structure,https://github.com/marketplace/actions/github-issue-parser,45
+Github action build chain. Cross-repo builds,Github action build chain is a tool to build multiple projects from different repositories in a single action.,https://github.com/marketplace/actions/github-action-build-chain-cross-repo-builds,46
+SSH to GitHub Actions,Connect to GitHub Actions VM via SSH for interactive debugging,https://github.com/marketplace/actions/ssh-to-github-actions,46
+Unity meta files check,Check missing/dangling meta files,https://github.com/marketplace/actions/unity-meta-files-check,46
+Interact with Google Drive,Upload/Download files to/from Google Drive,https://github.com/marketplace/actions/interact-with-google-drive,46
+user-statistician,Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions,https://github.com/marketplace/actions/user-statistician,46
+Compile LateX,Compile Latex files easily,https://github.com/marketplace/actions/compile-latex,46
+ESLint changed files,Run ESLint on all changed files,https://github.com/marketplace/actions/eslint-changed-files,46
+Setup K3d/K3s,Setup a lightweight Kubernetes cluster with K3d/K3s,https://github.com/marketplace/actions/setup-k3d-k3s,46
+Install Lua/LuaJIT,"Download, build, and install Lua or LuaJIT for use with scripts, tests and more",https://github.com/marketplace/actions/install-lua-luajit,46
+cspell-action,Spell Checker for Code,https://github.com/marketplace/actions/cspell-action,46
+aliyun-oss-website-action,Deploy your static website on aliyun OSS,https://github.com/marketplace/actions/aliyun-oss-website-action,46
+CodeGuru Reviewer,AWS CodeGuru Reviewer Action,https://github.com/marketplace/actions/codeguru-reviewer,46
+Conventional PR Title,Ensure your PR title matches the Conventional Commits spec (https://www.conventionalcommits.org/),https://github.com/marketplace/actions/conventional-pr-title,46
+Douban mark sync,Douban movie/book/music marked data sync to csv or notion action,https://github.com/marketplace/actions/douban-mark-sync,46
+Delete Older Releases,delete older releases of any repo,https://github.com/marketplace/actions/delete-older-releases,46
+Conditional value for GitHub Action,Conditional value for GitHub Action - missing expression for GitHub Actions,https://github.com/marketplace/actions/conditional-value-for-github-action,46
+Increment Semantic Version,"Bump a given semantic version by a release type ( major | minor | patch ) and add a possible postfix ( alpha | beta | rc
+)",https://github.com/marketplace/actions/increment-semantic-version,46
+notion-md-gen,Convert notion content to markdown for any static blog,https://github.com/marketplace/actions/notion-md-gen,46
+Deploy Azure Resource Manager (ARM) Template,Use this GitHub Action task to deploy Azure Resource Manager (ARM) template,https://github.com/marketplace/actions/deploy-azure-resource-manager-arm-template,46
+Due Dates,Manage due dates on issues,https://github.com/marketplace/actions/due-dates,46
+WakaTime Stat Update Action,Generate a WakaTime activity bar graph to be used in the README.md or embedded in web-page,https://github.com/marketplace/actions/wakatime-stat-update-action,47
+Argo CD Action,GitHub action for installing/executing Argo CD cli,https://github.com/marketplace/actions/argo-cd-action,47
+Jest Coverage Comment,"Comments a pull request or commit with the Jest code coverage badge, full report and tests summary",https://github.com/marketplace/actions/jest-coverage-comment,47
+Label Commenter,"Label triggered GitHub Actions for posting a template message, automatically close or reopen issues or pull requests",https://github.com/marketplace/actions/label-commenter,47
+autopep8,Automatically formats Python code to conform to the PEP 8 style guide,https://github.com/marketplace/actions/autopep8,47
+Run ktlint with reviewdog,🐶 Run ktlint with reviewdog on pull requests to enforce best practices,https://github.com/marketplace/actions/run-ktlint-with-reviewdog,47
+jacoco-reporter,Publishes JaCoCo format Coverage Report in GitHub Actions as Checksuite and enforces Code Coverage Quality Gate.,https://github.com/marketplace/actions/jacoco-reporter,47
+Deployment Status,Creates a GitHub Deployment status update,https://github.com/marketplace/actions/deployment-status,47
+Send Tweet Action,Post a tweet to Twitter during a GitHub Actions workflow,https://github.com/marketplace/actions/send-tweet-action,47
+Autopopulate your contribution graph,This action will automatically push empty commits to one of your GitHub repos,https://github.com/marketplace/actions/autopopulate-your-contribution-graph,47
+Discord Webhook Action,Send custom messages or upload files to discord webhooks with simple action inputs,https://github.com/marketplace/actions/discord-webhook-action,47
+Sphinx to GitHub Pages,GitHub Action to deploy Sphinx documentation to GitHub Pages,https://github.com/marketplace/actions/sphinx-to-github-pages,47
+Run pyright,Run pyright,https://github.com/marketplace/actions/run-pyright,47
+swift-package-dependencies-check,Catch up with outdated versions based on your package dependency requirements,https://github.com/marketplace/actions/swift-package-dependencies-check,47
+Setup Fortran,Setup Fortran compiler and toolchain,https://github.com/marketplace/actions/setup-fortran,47
+Auto-Update CONTRIBUTORS,Updates contributors file,https://github.com/marketplace/actions/auto-update-contributors,47
+UseUGit,Updated Git,https://github.com/marketplace/actions/useugit,47
+generate-changelog-action,GitHub Action for lob/generate-changelog,https://github.com/marketplace/actions/generate-changelog-action,47
+Auto-generate CHANGELOG,Generate CHANGELOG according to conventional commits automatically when released,https://github.com/marketplace/actions/auto-generate-changelog,47
+Access Tokens for GitHub Actions,GitHub Action to request temporary access tokens,https://github.com/marketplace/actions/access-tokens-for-github-actions,47
+Label manager for PRs and Issues based on configurable conditions,"All-in-one action to manage labels in PRs and Issues based on many, extensible conditional rules",https://github.com/marketplace/actions/label-manager-for-prs-and-issues-based-on-configurable-conditions,48
+Android Kernel Build Action,A action to built android kernel,https://github.com/marketplace/actions/android-kernel-build-action,48
+Get Version,Extracts the version from github.ref,https://github.com/marketplace/actions/get-version,48
+mise action,Actions for working with mise runtime manager,https://github.com/marketplace/actions/mise-action,48
+Publish to GitHub Wiki,Pushes files to a GitHub project s wiki,https://github.com/marketplace/actions/publish-to-github-wiki,48
+werf,"Use werf CI/CD tool and GitHub Actions to build Docker images, push them to the registry, deploy to Kubernetes, and more",https://github.com/marketplace/actions/werf,48
+Gee env,Gee is tool of stdin to each files and stdout. It is similar to the tee command,https://github.com/marketplace/actions/gee-env,48
+Cloud Janitor,"Automating cleanup, maintenance and troubleshooting tasks in Cloud Computing",https://github.com/marketplace/actions/cloud-janitor,48
+Pull request linter action,Lint your pull request name based on commitlint configuration,https://github.com/marketplace/actions/pull-request-linter-action,48
+Bullfrog Secure Runner,Controls outbound traffic (egress) to secure GitHub Actions workflows,https://github.com/marketplace/actions/bullfrog-secure-runner,48
+DNSControl Action,Deploy your DNS configuration to multiple providers,https://github.com/marketplace/actions/dnscontrol-action,48
+Caching for Turborepo,Sets up Turborepo Remote Caching to work with GitHub Actions built-in cache. No Vercel account access tokens needed,https://github.com/marketplace/actions/caching-for-turborepo,48
+Setup Kubernetes Tools,"Setup Kubernetes tools: kubectl, kustomize, helm, kubeconform, conftest, yq, rancher, tilt, skaffold, kube-score",https://github.com/marketplace/actions/setup-kubernetes-tools,48
+Bump and changelog using commitizen,Create a commit bumping the version of your project and creating a changelog file,https://github.com/marketplace/actions/bump-and-changelog-using-commitizen,48
+Badge Action,Create a SVG badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers),https://github.com/marketplace/actions/badge-action,48
+Install Octopus CLI,GitHub Action to install the Octopus CLI,https://github.com/marketplace/actions/install-octopus-cli,48
+DX Scanner Action,Measure Developer Experience directly based on your source code,https://github.com/marketplace/actions/dx-scanner-action,48
+LGTM Reaction,Send LGTM reaction as image or GIF,https://github.com/marketplace/actions/lgtm-reaction,48
+Great-Expectations-Data,Use Great Expectations https://docs.greatexpectations.io/en/latest/ to validate data,https://github.com/marketplace/actions/great-expectations-data,48
+Sync GitHub Advanced Security and Jira,This helps sync GHAS alerts to JIRA by creating an issue for each alert,https://github.com/marketplace/actions/sync-github-advanced-security-and-jira,48
+Laravel Forge Deploy Action,Trigger Laravel Forge Deployments with Github Actions,https://github.com/marketplace/actions/laravel-forge-deploy-action,49
+s3 cache,S3 actions cache with actions/cache@v2 passthrough,https://github.com/marketplace/actions/s3-cache,49
+💬 Send Message to Slack 🚀,From Github Action to Slack. Easy to use. Supports Slack s optional arguments. Pure JavaScript = Fast,https://github.com/marketplace/actions/send-message-to-slack,49
+Salesforce SFDX CLI Action,This action allows to use Salesforce SFDX CLI from GitHub Actions,https://github.com/marketplace/actions/salesforce-sfdx-cli-action,49
+Profile Readme,Collection of widgets for your profile README,https://github.com/marketplace/actions/profile-readme,49
+Doxygen GitHub Pages Deploy Action,Make docs with Doxygen then deploy the generated HTML to GitHub pages,https://github.com/marketplace/actions/doxygen-github-pages-deploy-action,49
+Yet Another Upload Release Asset Action,Yet Another Upload Release Asset Action,https://github.com/marketplace/actions/yet-another-upload-release-asset-action,49
+Page Speed Insights,Utilize Google s Page Speed Insights to audit your application,https://github.com/marketplace/actions/page-speed-insights,49
+Eco CI Energy Estimation,Estimate the energy of Linux Github Actions Runner VMs via ML Model,https://github.com/marketplace/actions/eco-ci-energy-estimation,49
+Discord Commits,Send commit summary to Discord using custom templates,https://github.com/marketplace/actions/discord-commits,49
+actionlint with reviewdog,run actionlint with reviewdog,https://github.com/marketplace/actions/actionlint-with-reviewdog,49
+Bundle comparison,Compare the bundle size between the base branch and the current branch,https://github.com/marketplace/actions/bundle-comparison,49
+Validate JSON,GitHub Action: Validate JSON,https://github.com/marketplace/actions/validate-json,49
+Private Actions Checkout,Enables using private actions on a workflow,https://github.com/marketplace/actions/private-actions-checkout,49
+Release GitHub Actions,This is a GitHub Actions that automates the release of GitHub Actions,https://github.com/marketplace/actions/release-github-actions,49
+Android Kernel Action,Build android kernel with GitHub Action,https://github.com/marketplace/actions/android-kernel-action,49
+Pull Request Updater GitHub Action,GitHub Action that updates a pull request with information extracted from branch name,https://github.com/marketplace/actions/pull-request-updater-github-action,49
+ssh-scp-ssh-pipelines,Pipelines: ssh - scp - ssh,https://github.com/marketplace/actions/ssh-scp-ssh-pipelines,49
+Azure Pipelines Action,Trigger a run in Azure pipelines,https://github.com/marketplace/actions/azure-pipelines-action,49
+Mutex Action,A simple locking/unlocking mechanism to provide mutual exclusion in Github Actions,https://github.com/marketplace/actions/mutex-action,49
+WordPress Plugin Check,Test your WordPress plugin with Plugin Check,https://github.com/marketplace/actions/wordpress-plugin-check,50
+Mutex Action,A simple locking/unlocking mechanism to provide mutual exclusion in Github Actions,https://github.com/marketplace/actions/mutex-action,50
+Setup NuGet.exe for use with actions,Official NuGet.exe setup action that supports cross-platform installation of specific NuGet.exe versions,https://github.com/marketplace/actions/setup-nuget-exe-for-use-with-actions,50
+base64-to-file,Takes a base64-encoded string and writes to a file,https://github.com/marketplace/actions/base64-to-file,50
+Codespell with annotations,Codespell with annotations for Pull Request,https://github.com/marketplace/actions/codespell-with-annotations,50
+Install MinGW,Install MinGW-w64,https://github.com/marketplace/actions/install-mingw,50
+Assign Author,GitHub actions to assign author to issue or PR,https://github.com/marketplace/actions/assign-author,50
+Rubocop checks,Lint your Ruby code in parallel to your builds,https://github.com/marketplace/actions/rubocop-checks,50
+Danger PHP,"Danger PHP runs during your CI process, and gives teams the chance to automate common code review chores",https://github.com/marketplace/actions/danger-php,50
+Microsoft Teams (Generic),Send a message to the designated channel in Microsoft Teams,https://github.com/marketplace/actions/microsoft-teams-generic,50
+LAPRAS Card Readme,Add LAPRAS Card to your GitHub profile,https://github.com/marketplace/actions/lapras-card-readme,50
+GitHub Security Report Action,Generates security reports for a GitHub repository,https://github.com/marketplace/actions/github-security-report-action,50
+Label checker for pull requests,Checks pull requests for given labels,https://github.com/marketplace/actions/label-checker-for-pull-requests,50
+ghas-policy-as-code,Advance Security Policy as Code,https://github.com/marketplace/actions/ghas-policy-as-code,50
+Markdown Linting Action,GitHub Action to run markdown linter,https://github.com/marketplace/actions/markdown-linting-action,50
+rworkflows,"rworkflows: Full workflow to test, document, and deploy R packages.",https://github.com/marketplace/actions/rworkflows,50
+Install a binary from GitHub releases,Install binaries from GitHub releases,https://github.com/marketplace/actions/install-a-binary-from-github-releases,50
+Setup MATLAB,Set up a specific version of MATLAB,https://github.com/marketplace/actions/setup-matlab,50
+notify-microsoft-teams,Microsoft Teams Notification for Github Actions,https://github.com/marketplace/actions/notify-microsoft-teams,50
+generate-sitemap,Generate an XML sitemap for a GitHub Pages site using GitHub Actions,https://github.com/marketplace/actions/generate-sitemap,50
