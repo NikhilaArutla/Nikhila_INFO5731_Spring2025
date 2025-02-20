@@ -1,0 +1,6 @@
+NAMED_ENTITIES,ENTITY COUNTS
+[],Counter()
+"[('second', 'ORDINAL'), ('half', 'CARDINAL')]","Counter({'ORDINAL': 1, 'CARDINAL': 1})"
+[],Counter()
+[],Counter()
+"[('validin', 'ORG'), ('ken accessory barbie', 'PERSON')]","Counter({'ORG': 1, 'PERSON': 1})"
